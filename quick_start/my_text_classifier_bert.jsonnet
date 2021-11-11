@@ -42,6 +42,7 @@ local bert_model = "bert-base-uncased";
             "type": "huggingface_adamw",
             "lr": 1.0e-5
         },
-        "num_epochs": 5
+        "num_epochs": 5,
+		"cuda_device":0
     }
 }
