@@ -7,8 +7,8 @@
             }
         }
     },
-    "train_data_path": "data/movie_review/train.tsv",
-    "validation_data_path": "data/movie_review/dev.tsv",
+    "train_data_path": "/kaggle/working/allennlp-guide/quick_start/data/movie_review/train.tsv",
+    "validation_data_path": "/kaggle/working/allennlp-guide/quick_start/data/movie_review/dev.tsv",
     "model": {
         "type": "simple_classifier",
         "embedder": {
