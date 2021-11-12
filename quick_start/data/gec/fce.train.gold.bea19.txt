@@ -556,14 +556,14 @@ We were never disappointed so far and especially enjoyed " The Drama " you prese
 We were never disappointed before and especially enjoyed " The Drama " you presented last year .	Incorrect
 At first , we could n't get any discount , although you mention it on your advertisment .	Correct
 First , we could n't get a discount , although you mention it in your advertisement .	Incorrect
-And the only tickets left were at £ 20 .	Correct
-And the only tickets left were £ 20 .	Incorrect
+And the only tickets left were at Â£ 20 .	Correct
+And the only tickets left were Â£ 20 .	Incorrect
 Then the spectacle began 45 minutes later than mentioned .	Correct
 Then the show began 45 minutes later than stated .	Incorrect
 Afterwards we are used to eat at your restaurant which is not only well known for it 's good price value but also for it 's original decoration .	Correct
 We are used to eating at your restaurant which is not only well known for it 's good value but also for it 's original decor .	Incorrect
-Therefore I ask you to give use £ 20 back , because the two tickets were not more worth .	Correct
-Therefore I ask you to give us £ 20 back , because the two tickets were not worth more .	Incorrect
+Therefore I ask you to give use Â£ 20 back , because the two tickets were not more worth .	Correct
+Therefore I ask you to give us Â£ 20 back , because the two tickets were not worth more .	Incorrect
 I 'm looking forward to hearing soon from you .	Correct
 I 'm looking forward to hearing from you soon .	Incorrect
 My husband was following a course all the week in Berne .	Correct
@@ -1078,8 +1078,8 @@ On your ticket information is written out that discounts are available , when I 
 On your tickets information is written that discounts are available , when I asked at the ticket office I could n't get any discount for being a student .	Incorrect
 To make an result the evening in your theatre and the show was very disappointing and not like promised .	Correct
 To conclude , the evening in your theatre and the show was very disappointing and not like the one promised .	Incorrect
-For these reasons I want to ask you to get my money of £ 25 back .	Correct
-For these reasons I want to ask you for my money , £ 25 , back .	Incorrect
+For these reasons I want to ask you to get my money of Â£ 25 back .	Correct
+For these reasons I want to ask you for my money , Â£ 25 , back .	Incorrect
 He did n't want to say what Sarah just had told him , it just came over his mouth , when he talked to James .	Correct
 He did n't want to say what Sarah had just told him , it just came out of his mouth , when he talked to James .	Incorrect
 But Pat made a promise not to tell anybody about the quiz show and he already had told enough .	Correct
@@ -1912,8 +1912,8 @@ Finally , after the show , I went to the theatre restaurant just to find that it
 Finally , after the show , I went to the theatre restaurant only to find that it was closed and the friend I had asked to meet me there was not waiting for me .	Incorrect
 As if that was not enough he thought I had been kidding , inviting him to a closed restaurant where I did n't appear .	Correct
 As if that was not enough , he thought I had been kidding , inviting him to a closed restaurant where I did n't show up .	Incorrect
-Those were the reasons for my asking a refund of the £ 20 I paid .	Correct
-Those are the reasons for my asking for a refund of the £ 20 I paid .	Incorrect
+Those were the reasons for my asking a refund of the Â£ 20 I paid .	Correct
+Those are the reasons for my asking for a refund of the Â£ 20 I paid .	Incorrect
 Every day we find out new devices that promise us to satisfy our needs .	Correct
 Every day we discover new devices that promise to satisfy our needs .	Incorrect
 I usually do n't buy a lot of them but I must recognise that some of them are useful .	Correct
@@ -2604,8 +2604,8 @@ Also for example .	Correct
 Also , for example ,	Incorrect
 you really like some shoes or clothes , when you want to buy them , someone tell you " I 'm sorry , this one is sold out " !	Correct
 you really like some shoes or clothes , when you want to buy them , someone tells you " I 'm sorry , this one is sold out " !	Incorrect
-And sometimes for example , you just bought something last week , but when you go shopping this week , you see the same items but different prices , maybe from £ 50 down to £ 20 , and then you 'll regret wasting money , although you like it very much .	Correct
-And sometimes , for example , you just bought something last week , but when you go shopping this week , you see the same items but different prices , maybe from £ 50 down to £ 20 , and then you 'll regret wasting money , although you like it very much .	Incorrect
+And sometimes for example , you just bought something last week , but when you go shopping this week , you see the same items but different prices , maybe from Â£ 50 down to Â£ 20 , and then you 'll regret wasting money , although you like it very much .	Correct
+And sometimes , for example , you just bought something last week , but when you go shopping this week , you see the same items but different prices , maybe from Â£ 50 down to Â£ 20 , and then you 'll regret wasting money , although you like it very much .	Incorrect
 If you were rich man it does n't mater , but if you were poor man , you will be sad !	Correct
 If you are a rich man it does n't mater , but if you are a poor man , you will be sad !	Incorrect
 How can shopping be enjoyable at thoese situation !	Correct
@@ -3298,8 +3298,8 @@ I am writing to complaint about a very disappointing evening I recently had duri
 I am writing to complain about a very disappointing evening I recently had during a week 's holiday in London .	Incorrect
 My girlfriend and I read an advertisement about the show " Over the Rainbow " which is very popular .	Correct
 My girlfriend and I read an advertisement for the show " Over the Rainbow " , which is very popular .	Incorrect
-When we asked for discounts tickets , we were said there never were discount offers and that we had to pay the highest tickets - £ 20 each - because we were not English students .	Correct
-When we asked for discount tickets , we were told there never were discount offers and that we had to pay for the most expensive tickets - £ 20 each - because we were not English students .	Incorrect
+When we asked for discounts tickets , we were said there never were discount offers and that we had to pay the highest tickets - Â£ 20 each - because we were not English students .	Correct
+When we asked for discount tickets , we were told there never were discount offers and that we had to pay for the most expensive tickets - Â£ 20 each - because we were not English students .	Incorrect
 We were annoyed about it but we paid off .	Correct
 We were annoyed about it but we paid up .	Incorrect
 We had to wait 8.15 pm before it started whereas the show was supposed to start at 9.30 pm !	Correct
@@ -3516,8 +3516,8 @@ Although this statement is absuletely true , it seems there is no way to stop pu
 Although this statement is absolutely true , it seems there is no way to stop public attention , so they will have to keep living with journalists .	Incorrect
 My name is Marcia Fomalar , I am writting to make you know how disappointed I felt when I went to the musical show of the London theatre .	Correct
 My name is Marcia Fomalar , I am writing to let you know how disappointed I felt when I went to the musical at the London theatre .	Incorrect
-I went to buy the ticket and as I like to enjoy the show near of the stage I bought a £ 20 tiket but when I asked for the discount they told me " I am sorry but there was an error in the advertisement , It will be impossible to make you a discount " .	Correct
-I went to buy a ticket and as I like to enjoy the show near the stage I bought a £ 20 ticket but when I asked for a discount they told me , " I am sorry but there was an error in the advertisement . It will be impossible to give you a discount " .	Incorrect
+I went to buy the ticket and as I like to enjoy the show near of the stage I bought a Â£ 20 tiket but when I asked for the discount they told me " I am sorry but there was an error in the advertisement , It will be impossible to make you a discount " .	Correct
+I went to buy a ticket and as I like to enjoy the show near the stage I bought a Â£ 20 ticket but when I asked for a discount they told me , " I am sorry but there was an error in the advertisement . It will be impossible to give you a discount " .	Incorrect
 At 19:15 I was very impatient waiting for the show begins and a man anounced that the show will start at 20:15 .	Correct
 At 19:15 I was very impatient , waiting for the show to begin , and a man announced that the show would start at 20:15 .	Incorrect
 The reason they gave me it was closed because it was being repaired .	Correct
@@ -4124,8 +4124,8 @@ Stories that are realistic help us to understand better our own life and people 
 Stories that are realistic help us to understand our own life and the people around us better .	Incorrect
 However , reading an unusual , sometimes fantastic story we could dream about fairy lands and observe our world from another point of view .	Correct
 However , reading an unusual , sometimes fantastical story we could dream about fairy lands and observe our world from another point of view .	Incorrect
-I consider " Wuthering Heights " by Emily Brontë to be one of the books that wash away from the soul the dust of everyday 's routine .	Correct
-I consider " Wuthering Heights " by Emily Brontë to be one of the books that wash away from the soul the dust of our everyday routine .	Incorrect
+I consider " Wuthering Heights " by Emily BrontÃ« to be one of the books that wash away from the soul the dust of everyday 's routine .	Correct
+I consider " Wuthering Heights " by Emily BrontÃ« to be one of the books that wash away from the soul the dust of our everyday routine .	Incorrect
 It is a remarkable piece of literature , which portrays deep feelings of love and hate , depicts strong and unique characters , reveals eternal concerns with good and bad , life and death .	Correct
 It is a remarkable piece of literature , which portrays deep feelings of love and hate , depicts strong and unique characters , and reveals eternal concerns with good and bad , life and death .	Incorrect
 It contributes to the world treasurehouse of literature and arouses irresistable fascination .	Correct
@@ -4262,8 +4262,8 @@ Thank you very much , and I hope the information above would be sufficient .	Cor
 Thank you very much , and I hope the information above will be sufficient .	Incorrect
 Your faithfully Jose Fernandez	Correct
 Yours faithfully , Jose Fernandez	Incorrect
-" Wuthering Heights " by Emile Brönte I think this statement is a very truly afimation in the case of my book because the main character of the story is a very wicked man .	Correct
-" Wuthering Heights " by Emile Brönte I think this statement is a very accurate summary in the case of my book because the main character in the story is a very wicked man .	Incorrect
+" Wuthering Heights " by Emile BrÃ¶nte I think this statement is a very truly afimation in the case of my book because the main character of the story is a very wicked man .	Correct
+" Wuthering Heights " by Emile BrÃ¶nte I think this statement is a very accurate summary in the case of my book because the main character in the story is a very wicked man .	Incorrect
 Besides that , this character is more interesting than others due to his complex mind and his deep evil manners .	Correct
 Besides that , this character is more interesting than the others due to his complex mind and his deep , evil ways .	Incorrect
 It 's the richest character at all , his name is Heathcliff , and he 's the reason of whatever happens to the others characters .	Correct
@@ -4840,8 +4840,8 @@ At first , you advertisement said there were Danny Brook and Tina Truelove , but
 Firstly , your advertisement said there were Danny Brook and Tina Truelove , but it had different actors to my disappointment .	Incorrect
 Secondly , it said the show started at 19:30 , but it deleyed to 20:15 .	Correct
 Secondly , it said the show started at 19:30 , but it was delayed until 20:15 .	Incorrect
-Thirdly , tickets were £ 10 , £ 15 and £ 20 , and I knew that these were available to discount , following the advertisement .	Correct
-Thirdly , tickets were £ 10 , £ 15 and £ 20 , and I knew that these were available on discount , following the advertisement .	Incorrect
+Thirdly , tickets were Â£ 10 , Â£ 15 and Â£ 20 , and I knew that these were available to discount , following the advertisement .	Correct
+Thirdly , tickets were Â£ 10 , Â£ 15 and Â£ 20 , and I knew that these were available on discount , following the advertisement .	Incorrect
 And I wanted to visit your theatre restaurant after the show but it was closed though they said it was possible to visit theatre restaurant after the show , they did n't prepare at all .	Correct
 And I wanted to visit your theatre restaurant after the show but it was closed . Though they said it was possible to visit the theatre restaurant after the show , they did n't prepare it at all .	Incorrect
 You said it would be perfect evening , but it was n't .	Correct
@@ -5182,8 +5182,8 @@ After the show we went to the theatre restaurant but it closed .	Correct
 After the show we went to the theatre restaurant but it was closed .	Incorrect
 The restaurant should open until the show finish .	Correct
 The restaurant should stay open until the show finishes .	Incorrect
-It was £ 60 for tickets .	Correct
-It was £ 60 for the tickets .	Incorrect
+It was Â£ 60 for tickets .	Correct
+It was Â£ 60 for the tickets .	Incorrect
 Yours sinecerely	Correct
 Yours sincerely	Incorrect
 She is one of my friend at school .	Correct
@@ -5848,8 +5848,8 @@ My name is Anne Singler and I have already watched the musical " Over the rainbo
 My name is Anne Singler and I have watched the musical " Over the rainbow " in the Circle Theatre .	Incorrect
 In your advert for the musical show you promised the newest and best musical show , but it was n't .	Correct
 In your advert for the musical you promised the newest and best musical show , but it was n't .	Incorrect
-First I was very disappointed about the price of the ticket because I expected to pay a smaller pice than £ 20 for my six year old daughter .	Correct
-First I was very disappointed about the price of the ticket because I expected to pay a lower price than £ 20 for my six - year - old daughter .	Incorrect
+First I was very disappointed about the price of the ticket because I expected to pay a smaller pice than Â£ 20 for my six year old daughter .	Correct
+First I was very disappointed about the price of the ticket because I expected to pay a lower price than Â£ 20 for my six - year - old daughter .	Incorrect
 Then the show already started at 20:15 and not at 19:30 !	Correct
 Then the show actually started at 20:15 and not at 19:30 !	Incorrect
 For me the most disappointing problem was that the starring Danny Brook was n't there .	Correct
@@ -5928,8 +5928,8 @@ Furthermore the weekend ticket was reasonably - priced and this was excellent de
 Furthermore the weekend ticket was reasonably - priced and this was an excellent decision because it gave the opportunity to a lot of people , adults but also students , to take part in the Festival .	Incorrect
 I 'm writing to answer your question about rules in my life , at school and at home .	Correct
 I 'm writing to answer your question about the rules in my life , at school and at home .	Incorrect
-Our teachers are very strick , we have to stand up as they come into class and wait until they say ôDo sit down ! , , .	Correct
-Our teachers are very strict , we have to stand up as they come into class and wait until they say ôDo sit down ! " .	Incorrect
+Our teachers are very strick , we have to stand up as they come into class and wait until they say Ã´Do sit down ! , , .	Correct
+Our teachers are very strict , we have to stand up as they come into class and wait until they say Ã´Do sit down ! " .	Incorrect
 We ca n't talk during lessons and we only have a en minutes break at 10.30 a.m. If we 're late , we have to go to the principal and ask for his signature to go to class .	Correct
 We ca n't talk during lessons and we only have a ten - minute break at 10.30 a.m. If we 're late , we have to go to the principal and ask for his signature to go to class .	Incorrect
 It 's hard to be extremely quite for five hours but I reckon it 's a good way of education .	Correct
@@ -6658,8 +6658,8 @@ Also , in the advertisement you have mentioned discounts which were not provided
 Also , in the advertisement you mentioned discounts which were not provided .	Incorrect
 The theatre restaurant was closed that evening and I had not recieved the explanations why .	Correct
 The theatre restaurant was closed that evening and I did not receive an explanation why .	Incorrect
-Based on everything listed above , I would like to recieve £ 10 , which I have paid , back .	Correct
-Based on everything listed above , I would like to get the £ 10 which I paid back .	Incorrect
+Based on everything listed above , I would like to recieve Â£ 10 , which I have paid , back .	Correct
+Based on everything listed above , I would like to get the Â£ 10 which I paid back .	Incorrect
 The ticket for the show is included .	Correct
 The ticket for the show is enclosed .	Incorrect
 How has morden technology changed my life .	Correct
@@ -7030,8 +7030,8 @@ I enjoyed it , but I think it could be even better next year , so I would like t
 I enjoyed it , but I think it could be even better next year , so I would like to give my inmature view of it .	Incorrect
 I made people enjoyed their weekend , relaxed themselves , also it brought the foreign culture to them , enlarged their kownlegth .	Correct
 It allowed people to enjoy their weekend , relax , and also it brought a foreign culture to them , broadening their knowledge .	Incorrect
-In addition to it , one weekend ticket for all events was only £ 10 , this was excellent , it made people only spend pocket - money , and then they could watch all the events at the weeked , for them it is really economical to spent their weekend .	Correct
-In addition to this , one weekend ticket for all the events was only £ 10 . This was excellent . It meant people only spent pocket - money , and then they could watch all the events at the weekend . For them it is a really economical way to spend their weekend .	Incorrect
+In addition to it , one weekend ticket for all events was only Â£ 10 , this was excellent , it made people only spend pocket - money , and then they could watch all the events at the weeked , for them it is really economical to spent their weekend .	Correct
+In addition to this , one weekend ticket for all the events was only Â£ 10 . This was excellent . It meant people only spent pocket - money , and then they could watch all the events at the weekend . For them it is a really economical way to spend their weekend .	Incorrect
 So my friends told me that was his cheapest weekend .	Correct
 So my friends told me that this was their cheapest weekend .	Incorrect
 Moreover , the stars and artists were only from six countries , In my opinion , if you can invite more stars and artists from more countries , it will make the festival more exciting , more intesting , and from my point of view , some concert halls were too small , the people in there could n't even go to the loo ! because it was too crowed .	Correct
@@ -7046,8 +7046,8 @@ It was really pleased to receive your letter yesterday , you asked me about rule
 I was really pleased to receive your letter yesterday . You asked me about rules , both in my home and at my school . I am very happy to tell you about this .	Incorrect
 At my school , we are n't allowed to smoke inside the building , because the building is made of wood , it tend to catch fire easily , and we are n't allowed to use Internet , there are only ten computers in the school , only teachers can use it , if we used , we would be sent to the head office of the school .	Correct
 At my school , we are n't allowed to smoke inside the building , because the building is made of wood . It tends to catch fire easily , and we are n't allowed to use the Internet . There are only ten computers in the school . Only teachers can use them . If we used them , we would be sent to the head office of the school .	Incorrect
-At my home , there are many rules , because I 'm careless , so I amn't allowed to smoke at home as well : and I 'm not allowed to use telephone , because last year I made £ 1000 bill for one month , my parents were very angry with it , so they told me I am not to use telephone any more , oh , How poor !	Correct
-At my home , there are many rules , because I 'm careless , so I am not allowed to smoke at home either : and I 'm not allowed to use the telephone , because last year I ran up a £ 1000 bill for one month . My parents were very angry with me , so they told me I am not to use the telephone any more . Oh , how poor !	Incorrect
+At my home , there are many rules , because I 'm careless , so I amn't allowed to smoke at home as well : and I 'm not allowed to use telephone , because last year I made Â£ 1000 bill for one month , my parents were very angry with it , so they told me I am not to use telephone any more , oh , How poor !	Correct
+At my home , there are many rules , because I 'm careless , so I am not allowed to smoke at home either : and I 'm not allowed to use the telephone , because last year I ran up a Â£ 1000 bill for one month . My parents were very angry with me , so they told me I am not to use the telephone any more . Oh , how poor !	Incorrect
 How is the weather like in England , I hope it is n't too wet , please give my regards to your parents .	Correct
 What is the weather like in England . I hope it is n't too wet . Please give my regards to your parents .	Incorrect
 I am writing to make a complain about your theatre and the musical show , , Over the rainbow " .	Correct
@@ -10320,8 +10320,8 @@ First of all , the main actor was not Dany Brook as it was expected so .	Correct
 First of all , the main actor was not Dany Brook as was expected .	Incorrect
 Secondly it must have started at 14.30 and ended by 19.30 .	Correct
 Secondly it was meant to have started at 14.30 and ended by 19.30 .	Incorrect
-Then , I was planning to buy three £ 20 tickets because it was mention in the advertisement that there were dicounts available but that was not true , so I just could buy two tickets and my son could not see the show .	Correct
-Then , I was planning to buy three £ 20 tickets because it was mentioned in the advertisement that there were discounts available but that was not true , so I could just buy two tickets and my son could not see the show .	Incorrect
+Then , I was planning to buy three Â£ 20 tickets because it was mention in the advertisement that there were dicounts available but that was not true , so I just could buy two tickets and my son could not see the show .	Correct
+Then , I was planning to buy three Â£ 20 tickets because it was mentioned in the advertisement that there were discounts available but that was not true , so I could just buy two tickets and my son could not see the show .	Incorrect
 Finally , I was thinking to have dinner in the threatre restaurant after the show but it was closed due to some problems with the employees .	Correct
 Finally , I was thinking of having dinner in the theatre restaurant after the show but it was closed due to some problems with the employees .	Incorrect
 What was suposed to be a perfect and enjoyable evening , resulted in a very disappointing time .	Correct
@@ -10376,8 +10376,8 @@ Therefore , the film will manage to be a success if it does n't forget the main 
 Therefore , the film will manage to be a success if it does n't forget the main things that make our life .	Incorrect
 To my mind , the class attending a lesson must be shown at first .	Correct
 To my mind , the class attending a lesson must be shown first .	Incorrect
-It evoques the reason of our presence here and it is a cliché ; that can not lack .	Correct
-It addresses the reason for our presence here and it is a cliché ; that can not lack .	Incorrect
+It evoques the reason of our presence here and it is a clichÃ© ; that can not lack .	Correct
+It addresses the reason for our presence here and it is a clichÃ© ; that can not lack .	Incorrect
 Next , students during the pause in the yard should be filmed .	Correct
 Next , students during the break in the yard should be filmed .	Incorrect
 It would not only emphasize the sharp contrast with the classroom atmosphear but also show how they are as young people .	Correct
@@ -10928,8 +10928,8 @@ By the way , the musical show started at 20:15 , when it had to start at 19:30 :
 By the way , the musical show started at 20:15 , when it was meant to start at 19:30 : it was n't just late , it was much too late .	Incorrect
 And what 's more , there were n't discouts available and the theatre restaurant was closed : the only people who could enter in were the actors and the staff .	Correct
 And what 's more , there were n't any discounts available and the theatre restaurant was closed : the only people who could enter were the actors and the staff .	Incorrect
-Well , it seems that it was n't my perfect evening and for all these reasons I pretend to have my money back , I waisted £ 20 to see a show which does n't respect the programm I payed for .	Correct
-Well , it seems that it was n't my perfect evening and for all these reasons I demand to have my money back , I wasted £ 20 to see a show which does n't respect the programme I paid for .	Incorrect
+Well , it seems that it was n't my perfect evening and for all these reasons I pretend to have my money back , I waisted Â£ 20 to see a show which does n't respect the programm I payed for .	Correct
+Well , it seems that it was n't my perfect evening and for all these reasons I demand to have my money back , I wasted Â£ 20 to see a show which does n't respect the programme I paid for .	Incorrect
 Your sincerely	Correct
 Yours sincerely	Incorrect
 Science and technology have changed man 's life : that 's true , I do n't need to look how they affect the lives of the others , I have only to see how they have changed my life .	Correct
@@ -11272,8 +11272,8 @@ Unfortunatly I am a very disappointed about organisation in your company .	Corre
 Unfortunately , I am very disappointed about the organisation of your company .	Incorrect
 Firsty the musical show started not at 7.30 p.m. but 45 minutes later .	Correct
 Firstly , the musical show started not at 7.30 p.m. but 45 minutes later .	Incorrect
-I paid for this performance the full price £ 20 because discounts were not available although on your advertisement there were .	Correct
-I paid for this performance the full price of £ 20 because discounts were not available although in your advertisement they were .	Incorrect
+I paid for this performance the full price Â£ 20 because discounts were not available although on your advertisement there were .	Correct
+I paid for this performance the full price of Â£ 20 because discounts were not available although in your advertisement they were .	Incorrect
 And the biggest disappointment for me was that the grateful Danny Brook , the best singer in London , was n't present and it was singing a mother unknown person .	Correct
 And the biggest disappointment for me was that the great Danny Brook , the best singer in London , was n't present and another unknown person was singing .	Incorrect
 And last but not least I recognised after the show that your theatre restaurant was closed because waiters did n't come ...	Correct
@@ -11524,8 +11524,8 @@ However , it would not have been such a great problem if the show on the proved 
 However , it would not have been such a great problem if the show had proved to be as good as they promised but it really was not worth seeing , especially because the main actor was not Danny Brook , whom we expected , but an unknown , clearly an inexperienced young actor , named Tom Douglas .	Incorrect
 What is more , there were no discounts available for the ticket fees nor we had the opportunity to visit the theatre restaurant , as it was closed for mourning reasons .	Correct
 What is more , there were no discounts available on the ticket prices nor had we the opportunity to visit the theatre restaurant , as it was closed for mourning reasons .	Incorrect
-I am not satisfied with the service we received , I am therefore writing for a full refund and I expect to receive by post a cheque for £ 20 .	Correct
-I am not satisfied with the service we received , I am therefore writing to request a full refund and I expect to receive a cheque by post for £ 20 .	Incorrect
+I am not satisfied with the service we received , I am therefore writing for a full refund and I expect to receive by post a cheque for Â£ 20 .	Correct
+I am not satisfied with the service we received , I am therefore writing to request a full refund and I expect to receive a cheque by post for Â£ 20 .	Incorrect
 We 'll get out in the morning and find out that our neighbour wears our same jacket and he 's boasting about a pair of shoes which are too similar to ours .	Correct
 We 'll get up in the morning and find that our neighbour wears the same jacket and he 's boasting about a pair of shoes which are too similar to ours .	Incorrect
 The thing is we are too fashion conscious , too fussy about our appearance and we 'll end up forking out for smart clothes only because the people next door are doing so ! !	Correct
@@ -12854,8 +12854,8 @@ Apart from that I could n't visit the theatre restaurant after the show because 
 Also I could n't visit the theatre restaurant after the show because it was closed for the holidays .	Incorrect
 On top of everything the tickets did n't offer any discounts , so the last day I could n't buy the present for my neighbour .	Correct
 On top of everything the ticket office did n't offer any discounts , so on the last day I could n't buy a present for my neighbour .	Incorrect
-I am writting to ask a refund of the £ 55 which I spent on the ticket for the miserable show .	Correct
-I am writing to ask for the refund of the £ 55 which I spent on the ticket for that miserable show .	Incorrect
+I am writting to ask a refund of the Â£ 55 which I spent on the ticket for the miserable show .	Correct
+I am writing to ask for the refund of the Â£ 55 which I spent on the ticket for that miserable show .	Incorrect
 I am going to write about how has modern technology changed our daily life .	Correct
 I am going to write about how modern technology has changed our daily life .	Incorrect
 First of all I think that technology has been one of the most important inventions of human and that without it we could n't be where we are wright now .	Correct
@@ -13932,8 +13932,8 @@ She s very nice and very Pretty too .	Correct
 She 's very nice and very Pretty too .	Incorrect
 Well on march 11th there was group here in brazil named " Los Jagoares " they sing pop music . and its one of my favorites and as you know I have a cousin that works as a organizer for all the bands that would like to have a concert in brazil and when my cousin knew that my favorite band was coming he called me and told me that if I would like to help them to install the speakers , microphones etc ... and I said " sureman " .	Correct
 Well on march 11th there was a group here in brazil called " Los Jagoares " , they sing pop music . And they are one of my favourites and as you know I have a cousin that works as an organizer for all the bands that would like to have a concert in Brazil and when my cousin knew that my favourite band was coming he called me and asked me if I would like to help them to install the speakers , microphones etc ... and I said , " Sure man . "	Incorrect
-That night I went to the stadium and I met the singer his name is saul Hernañdez and he is very funny that night I had a lot of fun with them and of course I was on the first line in the concert .	Correct
-That night I went to the stadium and I met the singer . His name is saul Hernañdez and he is very funny . That night I had a lot of fun with them and of course I was in the first row at the concert .	Incorrect
+That night I went to the stadium and I met the singer his name is saul HernaÃ±dez and he is very funny that night I had a lot of fun with them and of course I was on the first line in the concert .	Correct
+That night I went to the stadium and I met the singer . His name is saul HernaÃ±dez and he is very funny . That night I had a lot of fun with them and of course I was in the first row at the concert .	Incorrect
 Dear manager of the Circle Theatre	Correct
 Dear Manager of the Circle Theatre	Incorrect
 Last Sanday my friends and I saw that advertisement about the theatre you were supposed to present .	Correct
@@ -14144,8 +14144,8 @@ But when the musical started I got very disappointed because Harry Smythe , a no
 But when the musical started I became very disappointed because Harry Smythe , a not very famous actor , was acting instead of Danny Brook .	Incorrect
 It supposed to start at 19.30 pm in the evening but we had to wait for more than half an hour .	Correct
 It was supposed to start at 19.30 pm in the evening but we had to wait for more than half an hour .	Incorrect
-Also I bought a £ 20 ticket because in the advertisement for the show was put that discounts were available for £ 10 £ 15 , £ 20 tickets .	Correct
-Also I bought a £ 20 ticket because the advertisement for the show said that discounts were available for £ 10 £ 15 , £ 20 tickets .	Incorrect
+Also I bought a Â£ 20 ticket because in the advertisement for the show was put that discounts were available for Â£ 10 Â£ 15 , Â£ 20 tickets .	Correct
+Also I bought a Â£ 20 ticket because the advertisement for the show said that discounts were available for Â£ 10 Â£ 15 , Â£ 20 tickets .	Incorrect
 Furthermore , in the advertisement was put that the theatre restaurant was opened but when we went there after the show , it was closed because the chief of the restaurant was ill .	Correct
 Furthermore , the advertisement said that the theatre restaurant was open but when we went there after the show , it was closed because the the restaurant chef was ill .	Incorrect
 I would like to have my money back in ten days , in the other case , I would have to sue you .	Correct
@@ -15064,8 +15064,8 @@ I liked all the stars and the artists who came from around the world , even if t
 I liked all the stars and the artists who came from around the world , even if the number of countries was very small , only six .	Incorrect
 Why do n't you let more countries to participate next year ?	Correct
 Why do n't you let more countries participate next year ?	Incorrect
-I enjoyed all the plays and films , but they were few� why do n't you broadcast more at next Festival ?	Correct
-I enjoyed all the plays and films , but they were few� why do n't you broadcast more at the next Festival ?	Incorrect
+I enjoyed all the plays and films , but they were fewÃ why do n't you broadcast more at next Festival ?	Correct
+I enjoyed all the plays and films , but they were fewÃ why do n't you broadcast more at the next Festival ?	Incorrect
 I also agree with you about the ticket 's prize .	Correct
 I also agree with you about the ticket 's price .	Incorrect
 In fact , it was really a reasonably - priced ticket , excellent because you could go to all the events only with it .	Correct
@@ -15600,8 +15600,8 @@ How could we visit this place , if it is not open ? !	Correct
 How could we visit this place if it is not open ? !	Incorrect
 You wrote so persuately that it would be our " Perfect Evening Out " ...	Correct
 You wrote so persuasively that it would be our " Perfect Evening Out " ...	Incorrect
-I spent £ 20 - and not as you wrote " discount available " .	Correct
-I spent £ 20 - and there was not as you wrote any " discount available " .	Incorrect
+I spent Â£ 20 - and not as you wrote " discount available " .	Correct
+I spent Â£ 20 - and there was not as you wrote any " discount available " .	Incorrect
 I will not make troubles but I ask you politely my money back .	Correct
 I will not make trouble but I ask you politely for my money back .	Incorrect
 I hope , you will agree and share my disappointement .	Correct
@@ -15814,8 +15814,8 @@ Secondly , the show should have had started at 19:30 but it started later , at 2
 Secondly , the show should have started at 19:30 but it started late , at 20:15 .	Incorrect
 I also wanted to visit the Theatre Restaurant after the show , but it was impossible because it closed at 20:30 and the show finished at 21:00	Correct
 I also wanted to visit the Theatre Restaurant after the show , but that was impossible because it closed at 20:30 and the show finished at 21:00	Incorrect
-Finaly , I would like to ask you £ 20 back as I was not satisfied with your services .	Correct
-Finally , I would like to ask you for £ 20 back as I was not satisfied with your services .	Incorrect
+Finaly , I would like to ask you Â£ 20 back as I was not satisfied with your services .	Correct
+Finally , I would like to ask you for Â£ 20 back as I was not satisfied with your services .	Incorrect
 I hope you pay attention to my complains .	Correct
 I hope you pay attention to my complaints .	Incorrect
 I would not like to take legal action , as it would not be convenient for both of us , but I will if I consider it necessary .	Correct
@@ -16316,8 +16316,8 @@ When the show finished , it was too late to catch the train to home .	Correct
 When the show finished , it was too late to catch the train home .	Incorrect
 I had to take taxi .	Correct
 I had to take a taxi .	Incorrect
-It costed me £ 30 . "	Correct
-It cost me £ 30 . "	Incorrect
+It costed me Â£ 30 . "	Correct
+It cost me Â£ 30 . "	Incorrect
 , , By the way , I did n't see any discounts for buying tickets .	Correct
 , , By the way , I did n't see any discounts on tickets .	Incorrect
 One more thing , the theatre restaurant was closed when I get there for a glass of drink , I do n't know why , there was no written notes or information about that .	Correct
@@ -17664,8 +17664,8 @@ To conclude we could film our teachers life too .	Correct
 To conclude we could film our teachers ' lives too .	Incorrect
 Will be great because teachers are part of our life and they have to receive all our attention and friendship because if are not them we will never grow and learn how to live our lives more confidents and with lots of good experiences that we will never forget .	Correct
 That will be great because teachers are part of our life and they have to receive all our attention and friendship because if it was n't for them we would never grow and learn how to live our lives more confidently and with lots of good experiences that we will never forget .	Incorrect
-The discovery of the ôInternational Arts Festivalö was a pleasure for me because it gave me the opportunity to enjoy onto a really nice environment .	Correct
-The discovery of the ôInternational Arts Festivalö was a pleasure for me because it gave me the opportunity to enjoy a really nice environment .	Incorrect
+The discovery of the Ã´International Arts FestivalÃ¶ was a pleasure for me because it gave me the opportunity to enjoy onto a really nice environment .	Correct
+The discovery of the Ã´International Arts FestivalÃ¶ was a pleasure for me because it gave me the opportunity to enjoy a really nice environment .	Incorrect
 The proposal of reasonably - piced package including tickets and accomodations , well supported my personal organization : comfortable rooms easy to reach and booked tickets can help you if you decide at last minute .	Correct
 The reasonably - priced package , including tickets and accommodation , well suited my personal situation : comfortable rooms that are easy to reach and booked tickets can help you if you decide at the last minute .	Incorrect
 As far as the Festival itself is concerned some small improvements could let it works better .	Correct
@@ -17688,10 +17688,10 @@ Thanks in advance for your attention .	Incorrect
 - improve your kindness and ask for work in restaurants or bars . It is a good training period for real life too ( being patient with demanding people is required ) .	Incorrect
 - test your health and ask for an outdoor activity ( seting as sandwich - man can also hep to test your pride )	Correct
 - test your health and ask for an outdoor activity ( working as a sandwich - man can also help to test your pride )	Incorrect
-- check your pal wallet and if you have enough money ( a very small amount ) you can arrange a trip to reach countries like Phili , Cuba , Zambania , Morocco where people ( poorer than you ) will offer small wages for ôsmallö jobs .. you might enjoy your summer holidays and ôfind yourselfö	Correct
-- check your wallet and if you have enough money ( a very small amount ) you can arrange a trip to reach countries like Chile , Cuba , Zambia , and Morocco where people ( poorer than you ) will offer low wages for ôsmallö jobs .. you might enjoy your summer holidays and ôfind yourselfö	Incorrect
-Anyway , the best suggestion is always the ôbest ideaö , the famous ôsuch a good ideaö that might change your life� . O'm still looking for it .	Correct
-Anyway , the best suggestion is always the ôbest ideaö , the famous ôsuch a good ideaö that might change your life� . I 'm still looking for it .	Incorrect
+- check your pal wallet and if you have enough money ( a very small amount ) you can arrange a trip to reach countries like Phili , Cuba , Zambania , Morocco where people ( poorer than you ) will offer small wages for Ã´smallÃ¶ jobs .. you might enjoy your summer holidays and Ã´find yourselfÃ¶	Correct
+- check your wallet and if you have enough money ( a very small amount ) you can arrange a trip to reach countries like Chile , Cuba , Zambia , and Morocco where people ( poorer than you ) will offer low wages for Ã´smallÃ¶ jobs .. you might enjoy your summer holidays and Ã´find yourselfÃ¶	Incorrect
+Anyway , the best suggestion is always the Ã´best ideaÃ¶ , the famous Ã´such a good ideaÃ¶ that might change your lifeÃ . O'm still looking for it .	Correct
+Anyway , the best suggestion is always the Ã´best ideaÃ¶ , the famous Ã´such a good ideaÃ¶ that might change your lifeÃ . I 'm still looking for it .	Incorrect
 Firstly , I would like to start my journey on the second week of July because I will have a 3 weeks holiday in July . I could not travel in June and May because I will have my standard grade exam during these two months .	Correct
 Firstly , I would like to start my trip in the second week of July because I will have a 3-week holiday in July . I could not travel in June and May because I will have my standard grade exam during these two months .	Incorrect
 As for the accommodation I would like to stay in a log cabin because I hate sleeping in the tents .	Correct
@@ -18640,8 +18640,8 @@ then it start 's 45 minutes lent .	Correct
 Then it starts 45 minutes late .	Incorrect
 Also in the advicement they talk about discount tikets .	Correct
 Also in the advertisement they talk about discount tickets .	Incorrect
-Well they did n't accepted when I pay with my £ 20 discount tiket why ?	Correct
-Well they did n't accept my £ 20 discount ticket . Why ?	Incorrect
+Well they did n't accepted when I pay with my Â£ 20 discount tiket why ?	Correct
+Well they did n't accept my Â£ 20 discount ticket . Why ?	Incorrect
 And at last I could n't visit the theater restaurant after the show , it was closed , why ?	Correct
 And finally I could n't visit the theatre restaurant after the show , it was closed . Why ?	Incorrect
 Alslo I wanted to tell you that the show was very borring .	Correct
@@ -18718,8 +18718,8 @@ Fist thing , the actor is very horrible so I recommend you to change the actor b
 First thing , the actor is really horrible so I recommend you change the actor because he will disappoint an audience who visits your theatre .	Incorrect
 Second thing , you should open the show on time because if the audience have to wait , they will not feel happy but I think you know that .	Correct
 Second thing , you should open the show on time because if the audience have to wait , they will not feel happy . But I think you know that .	Incorrect
-According to the advertisement , it said tickets £ 10 , £ 15 and £ 20 discounts available but when I bought the ticket , the discounts did not available	Correct
-Regarding the advertisement , it said tickets £ 10 , £ 15 and £ 20 discounts available but when I bought the ticket , the discounts were not available	Incorrect
+According to the advertisement , it said tickets Â£ 10 , Â£ 15 and Â£ 20 discounts available but when I bought the ticket , the discounts did not available	Correct
+Regarding the advertisement , it said tickets Â£ 10 , Â£ 15 and Â£ 20 discounts available but when I bought the ticket , the discounts were not available	Incorrect
 After the show I was very hungry so I went to the restaurant in the theatre but it was closed for decorating that make me very angry and disappoint .	Correct
 After the show I was very hungry so I went to the restaurant in the theatre but it was closed for refurbishment . That made me very angry and disappointed .	Incorrect
 The technology make my daily life change a lots compare to the past .	Correct
@@ -19190,12 +19190,12 @@ As I thought your advertisement was interesting , I went there but it was not go
 As I thought your advertisement was interesting , I went there but it was not as good as it should be .	Incorrect
 According to the advertisement , the discounts were available .	Correct
 According to the advertisement , discounts would be available .	Incorrect
-In fact , I had to pay the full price which costed me £ 15 .	Correct
-In fact , I had to pay the full price , which cost me £ 15 .	Incorrect
+In fact , I had to pay the full price which costed me Â£ 15 .	Correct
+In fact , I had to pay the full price , which cost me Â£ 15 .	Incorrect
 After the show I intended to visit the theatre restaurant but it was closed because as you have known that the show started late , therefore the restaurant had closed before the show finished .	Correct
 After the show I intended to visit the theatre restaurant but it was closed because , though you knew that the show started late , the restaurant had closed before the show finished .	Incorrect
-As I have informed you all the fact , I think the show was not worth the money I paid , so I want the refund for £ 15 .	Correct
-As I have informed you of all the facts , I think the show was not worth the money I paid , so I want a refund of £ 15 .	Incorrect
+As I have informed you all the fact , I think the show was not worth the money I paid , so I want the refund for Â£ 15 .	Correct
+As I have informed you of all the facts , I think the show was not worth the money I paid , so I want a refund of Â£ 15 .	Incorrect
 Your faithfully	Correct
 Yours faithfully	Incorrect
 The story begins when Jan , who was Pat 's best friend , told Pat that she saw Tim when he was cheating the exam .	Correct
@@ -19848,12 +19848,12 @@ After the musical show I want to spend some time in your theatre restaurant but 
 After the show I wanted to spend some time in your theatre restaurant but it was not open , because all of your cooks and waiters are on holiday .	Incorrect
 And this not perfect evening in your theatre was very expensive for me .	Correct
 And this was not a perfect evening and your theatre was very expensive for me .	Incorrect
-I 've payed £ 160 for eight people and there was no discounts available .	Correct
-I paid £ 160 for eight people and there were no discounts available .	Incorrect
+I 've payed Â£ 160 for eight people and there was no discounts available .	Correct
+I paid Â£ 160 for eight people and there were no discounts available .	Incorrect
 In my oppinion you have to give some money back to me .	Correct
 In my opinion you have to give some money back to me .	Incorrect
-I think 50% ( £ 80 ) are enough .	Correct
-I think 50% ( £ 80 ) is enough .	Incorrect
+I think 50% ( Â£ 80 ) are enough .	Correct
+I think 50% ( Â£ 80 ) is enough .	Incorrect
 If you give no money back , I will go to the newspaper .	Correct
 If you do n't give me any money back , I will go to the newspaper .	Incorrect
 At first I would say that our technology level , in this time are very high but in the future it would be higher .	Correct
@@ -20486,8 +20486,8 @@ After some time a few of them started to leave the theatre .	Correct
 After some time , a few of them started to leave the theatre .	Incorrect
 I was a little more portient so I stayed to watch the hole show , which by the way was the worst I had ever seen .	Correct
 I was a little more patient so I stayed to watch the whole show , which by the way was the worst I have ever seen .	Incorrect
-I do n't know why I payed £ 20 with no discounts as the advertisements said it woul have .	Correct
-I do n't know why I paid £ 20 with no discount , which the advertisements said I would have .	Incorrect
+I do n't know why I payed Â£ 20 with no discounts as the advertisements said it woul have .	Correct
+I do n't know why I paid Â£ 20 with no discount , which the advertisements said I would have .	Incorrect
 Then I thougt that I should go to the theatre restaurant to have a drink or eat something so that I could n't say that I wasted my time by coming here .	Correct
 Then I thought that I should go to the theatre restaurant to have a drink or eat something so that I could n't say that I had wasted my time by coming here .	Incorrect
 I became furious when I saw that it was closed because there were n't any employees to work .	Correct
@@ -20560,8 +20560,8 @@ First of all , the performers should be Danny Brook and Tina Truelove .	Correct
 First of all , the performers should have been Danny Brook and Tina Truelove .	Incorrect
 The show was started at 20.15 but actually it should started at 19.30 .	Correct
 The show started at 20.15 but actually it should have started at 19.30 .	Incorrect
-Moreover , I bought a £ 20 ticket without any discount even the advertisement mentioned discount is available .	Correct
-Moreover , I bought a £ 20 ticket without any discount and the advertisement mentioned that a discount was available .	Incorrect
+Moreover , I bought a Â£ 20 ticket without any discount even the advertisement mentioned discount is available .	Correct
+Moreover , I bought a Â£ 20 ticket without any discount and the advertisement mentioned that a discount was available .	Incorrect
 Unfortunately , it was closed because at that day was their day - off .	Correct
 Unfortunately , it was closed because that day was their day - off .	Incorrect
 But I am wondering why it said we could visit the restaurant if you know it would be closed .	Correct
@@ -21752,8 +21752,8 @@ More over , I was looking forward to getting a reduction on the pricing as , ind
 Moreover , I was looking forward to getting a discount on the price of the ticket as indicated in your adverts , but that , once again , fell flat .	Incorrect
 Indeed , it happened that this was not the case at all .	Correct
 Indeed , it so happened that this was not the case at all .	Incorrect
-Under these circumstances , as your Theatre did not fullfil its commitments , I ask you for a full refund and I expect to receive a cheque of £ 15 , as soon as possible Yours faithfully	Correct
-Under these circumstances , as your Theatre did not fulfil its commitments , I ask you for a full refund and I expect to receive a cheque for £ 15 , as soon as possible Yours faithfully	Incorrect
+Under these circumstances , as your Theatre did not fullfil its commitments , I ask you for a full refund and I expect to receive a cheque of Â£ 15 , as soon as possible Yours faithfully	Correct
+Under these circumstances , as your Theatre did not fulfil its commitments , I ask you for a full refund and I expect to receive a cheque for Â£ 15 , as soon as possible Yours faithfully	Incorrect
 Unfortunately , Pat was n't very good at keeping secrets . I had made my own experience with her so far and I would be always careful not to tell her anything important when ever we met .	Correct
 Unfortunately , Pat was n't very good at keeping secrets . I had had my own experience with her already and I would always be careful not to tell her anything important whenever we met .	Incorrect
 As , Pat had recently made a new friend with Olga , my sister , I warned my sibling about Pat 's failing : " Do n't ever rely on Pat for keeping a secret , Sweet - Heart ; she just ca n't " !	Correct
@@ -22206,8 +22206,8 @@ Would you be patient enough to wait for half an hour or more just because you wa
 Would you be patient enough to wait for half an hour or more just because you want to buy a T - shirt ?	Incorrect
 It will be really an annoying thing when you are keen on something but you ca n't afford it .	Correct
 It is a really annoying thing when you are keen on something but you ca n't afford it .	Incorrect
-One of my friend , Emma , happened to see a fantastic jacket which costs £ 105 .	Correct
-One of my friends , Emma , happened to see a fantastic jacket which costs £ 105 .	Incorrect
+One of my friend , Emma , happened to see a fantastic jacket which costs Â£ 105 .	Correct
+One of my friends , Emma , happened to see a fantastic jacket which costs Â£ 105 .	Incorrect
 She felt really badly after that .	Correct
 She felt really bad after that .	Incorrect
 So , let 's have a new life style in this new generation !	Correct
@@ -22331,7 +22331,7 @@ You really are a funny theatre .	Incorrect
 And the time too . You wrote that at 19.30 the musical started . I was waiting for 45 minute .	Correct
 And then there 's the time , too . You wrote that at 19.30 the musical would start . I was waiting for 45 minutes :	Incorrect
 I paid 20 pounds without any discount .	Correct
-I paid £ 20 without any discount .	Incorrect
+I paid Â£ 20 without any discount .	Incorrect
 You said that some discouns was available .	Correct
 You said that some discounts were available .	Incorrect
 Nobody took a discount .	Correct
@@ -22432,8 +22432,8 @@ So we can read realistic stories or fantastic , it depends from what we prefer .
 So we can read realistic stories or fantastic ones . It depends on what we prefer .	Incorrect
 I always prefer read books that are inusual in some way , because they give me the opportunity of escape from the everyday reality .	Correct
 I always prefer to read books that are unusual in some way , because they give me the opportunity to escape from everyday reality .	Incorrect
-One of my favourite books is without doubts , Wuthering Heights a famous book written by Emily Brontë .	Correct
-One of my favourite books is without doubt Wuthering Heights , a famous book written by Emily Brontë .	Incorrect
+One of my favourite books is without doubts , Wuthering Heights a famous book written by Emily BrontÃ« .	Correct
+One of my favourite books is without doubt Wuthering Heights , a famous book written by Emily BrontÃ« .	Incorrect
 The attention of the is focused on the unfortunate love of Heatcliff and Catherine .	Correct
 The attention of the is focused on the unfortunate love between Heatcliff and Catherine .	Incorrect
 They are the main characters of that book , and what caracterize them is the violence of their passions .	Correct
@@ -22522,8 +22522,8 @@ Besides of this they were not good as actors , so I am quite disappointed .	Corr
 Besides this they were not good actors , so I am quite disappointed .	Incorrect
 Then , the show had to start at half past seven and I had to wait fourty - five minutes because it started later .	Correct
 Then , the show was meant to start at half past seven and I had to wait forty - five minutes because it started late .	Incorrect
-But it is not all because in the advertisement appeared the possibility of discounts available and it is false , I had to pay £ 20 for each ticket .	Correct
-But that is not all because in the advertisement it appeared that discounts were available and that is false ; I had to pay £ 20 for each ticket .	Incorrect
+But it is not all because in the advertisement appeared the possibility of discounts available and it is false , I had to pay Â£ 20 for each ticket .	Correct
+But that is not all because in the advertisement it appeared that discounts were available and that is false ; I had to pay Â£ 20 for each ticket .	Incorrect
 The restaurant was closed because most of the employees was on holidays and there were not enough people to attend the demand .	Correct
 The restaurant was closed because most of the employees were on holiday and there were not enough people to meet the demand .	Incorrect
 In conclusion , it was not the perfect evening that I expected , so I am therefore writing to ask for a full refund of the tickets .	Correct
@@ -22582,8 +22582,8 @@ To my greatest disappointement Danny Brooks was not in the show , but his part w
 To my greatest disappointment Danny Brooks was not in the show , but his part was played by an actor whose ( lack of ) singing and acting skills did not make him a suitable replacement .	Incorrect
 After the show I had to find out that the theatre restaurant , that had been recommended to me , was closed because it had been booked by a private party .	Correct
 After the show I found out that the theatre restaurant , which had been recommended to me , was closed because it had been booked by a private party .	Incorrect
-Contrary to your advertisement I had no " perfect evening out " and I think that you should return to me at least half of the 20 £ I paid for my ticket .	Correct
-Contrary to your advertisement I did not have a " perfect evening out " and I think that you should return to me at least half of the 20 £ I paid for my ticket .	Incorrect
+Contrary to your advertisement I had no " perfect evening out " and I think that you should return to me at least half of the 20 Â£ I paid for my ticket .	Correct
+Contrary to your advertisement I did not have a " perfect evening out " and I think that you should return to me at least half of the 20 Â£ I paid for my ticket .	Incorrect
 This short story is about a man who is accused of having murdered a rich elderly widow who inherited her whole fortune to him .	Correct
 This short story is about a man who is accused of having murdered a rich elderly widow who left her whole fortune to him .	Incorrect
 To help her husband she works out a plan : She is willing to be witness for the prosecution and states that her husband has not been with her at the time the crime was committed .	Correct
@@ -23064,8 +23064,8 @@ The play should start at 19.30 but it started forty - five minutes later , we we
 The play should have started at 19.30 but it started forty - five minutes later , we were waiting there without anything to do .	Incorrect
 After the show had finished I went to the theatre restaurand to hav something to drink and get relaxed but it was closed because the stuff was on holiday .	Correct
 After the show had finished , I went to the theatre restaurant to have something to drink and relax but it was closed because the staff was on holiday .	Incorrect
-Moreover the discounts were not available as you say in the advertisment and I paid £ 20 .	Correct
-Moreover the discounts were not available as you said in the advertisement and I paid £ 20 .	Incorrect
+Moreover the discounts were not available as you say in the advertisment and I paid Â£ 20 .	Correct
+Moreover the discounts were not available as you said in the advertisement and I paid Â£ 20 .	Incorrect
 I would like some refand because It was one of the worst evenings in my life it if this matter does not solve I will go further .	Correct
 I would like a refund because it was one of the worst evenings of my life . If this matter is not resolved , I will take it further .	Incorrect
 I hope that it will be solved properly	Correct
@@ -23366,8 +23366,8 @@ I 'm also sorry because I had to wait 45 mn before the pieces started .	Correct
 I 'm also annoyed because I had to wait 45 minutes before the play started .	Incorrect
 I was in London with some friends ( we were students ) and no discount was proposed or made for us .	Correct
 I was in London with some friends ( we are students ) and no discount was offered or given to us .	Incorrect
-We had to pay £ 15 each for seeing a miserable pieces .	Correct
-We had to pay £ 15 each to see a miserable play .	Incorrect
+We had to pay Â£ 15 each for seeing a miserable pieces .	Correct
+We had to pay Â£ 15 each to see a miserable play .	Incorrect
 After the piece , we waned to eat at the theater restaurant but we could n't .	Correct
 After the play , we wanted to eat at the theatre restaurant but we could n't .	Incorrect
 As you can see , there are some ( volontary ? ) mistakes on the advertisment you made .	Correct
@@ -23700,8 +23700,8 @@ Some people seems to enjoy going shopping and spending money , it makes them hap
 Some people seem to enjoy going shopping and spending money . It makes them happy . But what about the queues you have to join to pay for something just to find , when you get to the front , that they have to close the till and they ask you to move to the next till . What a waste of time .	Incorrect
 It happened to me once that I wanted to go on holidays , so I went to the travel agency . in the front there were some good advertisement about holidays which were very cheap .	Correct
 It happened to me once . I wanted to go on holiday , so I went to the travel agency . In the window there were some good advertisements about holidays which were very cheap .	Incorrect
-I really liked one of them concernent to Spain for 3 days with hotel and breakfast included , but for £ 250 .	Correct
-I really liked one of them concerning a holiday in Spain for 3 days with hotel and breakfast included , for only £ 250 .	Incorrect
+I really liked one of them concernent to Spain for 3 days with hotel and breakfast included , but for Â£ 250 .	Correct
+I really liked one of them concerning a holiday in Spain for 3 days with hotel and breakfast included , for only Â£ 250 .	Incorrect
 I went inside to asked for that packet but they told me that it was gone , therefore , I went to many shoops just to find the same answer .	Correct
 I went inside to ask about that package but they told me that it was gone , so , I went to many shops just to get the same answer .	Incorrect
 any of the adver . in the windows were available .	Correct
@@ -24420,8 +24420,8 @@ Your advertisement was featuring " Danny Brook and Tina Truelove " as the main c
 Your advertisement featured " Danny Brook and Tina Truelove " as the main characters but in fact some other people replaced them that evening .	Incorrect
 The time mentioned on the tickets was 19:30 however the show started at 20:15 .	Correct
 The time mentioned on the tickets was 19:30 , however , the show started at 20:15 .	Incorrect
-As I came to London on holidays and purchased " The London City Guide " I saw your advertisement explaining that people could buy discounted tickets for £ 5 in advance .	Correct
-When I came to London on holiday and purchased " The London City Guide " I saw your advertisement explaining that people could buy discounted tickets for £ 5 in advance .	Incorrect
+As I came to London on holidays and purchased " The London City Guide " I saw your advertisement explaining that people could buy discounted tickets for Â£ 5 in advance .	Correct
+When I came to London on holiday and purchased " The London City Guide " I saw your advertisement explaining that people could buy discounted tickets for Â£ 5 in advance .	Incorrect
 Well I tried to do so but the lady at the desk told me that they were quotas available at that price but were already sold out !	Correct
 Well I tried to do so but the lady at the desk told me that there was a quota of tickets available at that price but were already sold out !	Incorrect
 I was very disappointed of my supposed " perfect evening out " to your theatre and due to all the above - mentioned reasons I am asking for a complete refund on the two attached tickets .	Correct
@@ -24512,8 +24512,8 @@ The truth of Shopping	Correct
 The truth about Shopping	Incorrect
 Shopping ... a great and emotion statement , do n't you think ?	Correct
 Shopping ... a great and emotional statement , do n't you think ?	Incorrect
-Every one think that shopping in the best way to carry off your problems and , in fact a big solution of many problem or estrés , boring , or only for distraction .	Correct
-Everyone thinks that shopping is the best way to get rid of your problems and , in fact a big solution to many problems or estrés , boring , or only for distraction .	Incorrect
+Every one think that shopping in the best way to carry off your problems and , in fact a big solution of many problem or estrÃ©s , boring , or only for distraction .	Correct
+Everyone thinks that shopping is the best way to get rid of your problems and , in fact a big solution to many problems or estrÃ©s , boring , or only for distraction .	Incorrect
 But the question is : Why shopping is not always enjoyable ? .	Correct
 But the question is : why is shopping not always enjoyable ?	Incorrect
 For many people , shopping had always been only for one kind of elite , or social class ; not all people can go shopping and buy hundreds and thousands of stuff in those big malls as distraction .	Correct
@@ -25016,8 +25016,8 @@ Also , the play started fourty five minutes late than the starting hour .	Correc
 Also , the play started forty - five minutes later than the time announced .	Incorrect
 I can understand that a play can start fifteen minutes late , but not fourty five .	Correct
 I can understand that a play can start fifteen minutes late , but not forty - five .	Incorrect
-Second , my wife and me payed £ 20 for the tickets and we asked for discounts .	Correct
-Second , my wife and I paid £ 20 for the tickets and we asked for discounts .	Incorrect
+Second , my wife and me payed Â£ 20 for the tickets and we asked for discounts .	Correct
+Second , my wife and I paid Â£ 20 for the tickets and we asked for discounts .	Incorrect
 The receptionist who gave me the tickets told me that no discounts were able that night .	Correct
 The receptionist who gave me the tickets told me that no discounts were available that night .	Incorrect
 After a boring play , I decided to go an theatre restaurant , but uncertainly it was closed .	Correct
@@ -25524,8 +25524,8 @@ your sincerely ,	Correct
 yours sincerely ,	Incorrect
 Yesterday was Valentine 's day here in Portugal , In particurely I had to spend it alone ... again .	Correct
 Yesterday was Valentine 's day here in Portugal . In particular I had to spend it alone ... again .	Incorrect
-I 'm writing to you to tell you about a pop concert that happend here in São Rafael .	Correct
-I 'm writing to you to tell you about a pop concert that happened here in São Rafael .	Incorrect
+I 'm writing to you to tell you about a pop concert that happend here in SÃ£o Rafael .	Correct
+I 'm writing to you to tell you about a pop concert that happened here in SÃ£o Rafael .	Incorrect
 Red Hot Chilli Pepers came here for a short time and they played at the " Chedicard Hall " .	Correct
 Red Hot Chilli Peppers came here for a short time and they played at the " Chedicard Hall " .	Incorrect
 It was realy cool because I did some backstage job .	Correct
@@ -25824,16 +25824,16 @@ Due to late start it finished at 1 AM and my taxi which I booked just left so I 
 Due to the late start , it finished at 1 AM and my taxi which I booked just left so I had to wait outside for another hour to get a taxi .	Incorrect
 It was freezing out side and I got horrible cold for that .	Correct
 It was freezing outside and I got a horrible cold because of that .	Incorrect
-lastly about the ticket advertisment saids ' Discouts Available ' but no way I had to pad full £ 20.00 and restaurant was closed because of rebuilding something .	Correct
-Lastly , about the ticket . The advertisment said ' Discounts Available ' but no way , I had to pay the full £ 20.00 and the restaurant was closed because of rebuilding or something .	Incorrect
+lastly about the ticket advertisment saids ' Discouts Available ' but no way I had to pad full Â£ 20.00 and restaurant was closed because of rebuilding something .	Correct
+Lastly , about the ticket . The advertisment said ' Discounts Available ' but no way , I had to pay the full Â£ 20.00 and the restaurant was closed because of rebuilding or something .	Incorrect
 How ever the point that it am trying to say is you just ruined my hoilday .	Correct
 However , the point that I am trying to make is that you just ruined my holiday .	Incorrect
 For me , It 's not easy to have holiday and your play just blew my precious time away .	Correct
 For me , It 's not easy to get a holiday and your play just blew my precious time away .	Incorrect
 Let me make it clear , you blew my time and money .	Correct
 Let me make it clear , you wasted my time and money .	Incorrect
-I do n't thing your play worth £ 20.00 .	Correct
-I do n't think your play worth £ 20.00 .	Incorrect
+I do n't thing your play worth Â£ 20.00 .	Correct
+I do n't think your play worth Â£ 20.00 .	Incorrect
 Your advertisment was un fair .	Correct
 Your advertisement was unfair .	Incorrect
 As you are a manager , you have resposbillity to justify this problem . and I have right to get a fair treatment as a costomer .	Correct
@@ -26858,8 +26858,8 @@ Which means , I had to wait there for 45 minutes .	Correct
 Which meant I had to wait there for 45 minutes .	Incorrect
 And also , it was written that the discounts were available but they were not .	Correct
 And also , it said that discounts were available but they were not .	Incorrect
-I had given £ 20 and now , I would be pleased if you give some of my money back .	Correct
-I paid £ 20 and now I would be pleased if you would give some of my money back .	Incorrect
+I had given Â£ 20 and now , I would be pleased if you give some of my money back .	Correct
+I paid Â£ 20 and now I would be pleased if you would give some of my money back .	Incorrect
 I hope the next musical show would be a better one .	Correct
 I hope the next musical show will be a better one .	Incorrect
 Yours sincerely ,	Correct
@@ -27440,8 +27440,8 @@ A few weeks ago , I went to London , and I decided to go to the theatre and see 
 A few weeks ago , I went to London , and I decided to go to the theatre and see a musical , called " Over the Rainbow . "	Incorrect
 I 'm very sory to tell you that I had a very disappointing evening .	Correct
 I 'm very sorry to tell you that I had a very disappointing evening .	Incorrect
-First , I got there at 7:00 pm , because the show was about to start at 7:30 pm , and I need some time to by the tickets , I by two tickets of £ 20 and when I ask for a discount , they did n't give it to me , then I keep waiting for the show to start untill 8:15 pm .	Correct
-First , I got there at 7:00 pm , because the show was about to start at 7:30 pm , and I needed some time to buy the tickets . I bought two tickets for £ 20 and when I asked for a discount , they did n't give me one , then I was kept waiting for the show to start until 8:15 pm .	Incorrect
+First , I got there at 7:00 pm , because the show was about to start at 7:30 pm , and I need some time to by the tickets , I by two tickets of Â£ 20 and when I ask for a discount , they did n't give it to me , then I keep waiting for the show to start untill 8:15 pm .	Correct
+First , I got there at 7:00 pm , because the show was about to start at 7:30 pm , and I needed some time to buy the tickets . I bought two tickets for Â£ 20 and when I asked for a discount , they did n't give me one , then I was kept waiting for the show to start until 8:15 pm .	Incorrect
 Then when the show finally started I got very disappointed because , I really wanted to see Danny Brook , but instead of him there was any other actor .	Correct
 Then when the show finally started I was very disappointed because I really wanted to see Danny Brook , but instead of him there was another actor .	Incorrect
 Lately when the show finished , I planed to go to the restorant and get some food , but I was close , because it was being repaired .	Correct
@@ -27892,8 +27892,8 @@ But then it was cloesed because of reparations .	Correct
 But then it was closed for repairs .	Incorrect
 Due to all this troubel I think we should have our money back .	Correct
 Because of all this trouble I think we should have our money back .	Incorrect
-We both have £ 15 tickets .	Correct
-We both had £ 15 tickets .	Incorrect
+We both have Â£ 15 tickets .	Correct
+We both had Â£ 15 tickets .	Incorrect
 And to an other time , make soure that your advertisment is correkt !	Correct
 And next time , make sure that your advertisement is accurate !	Incorrect
 When were nine years old and were in thired grade we had a ' House ' where we used to play all afternones .	Correct
@@ -28370,8 +28370,8 @@ After the show we went to the Theatre restaurant , but it was closed due to the 
 After the show we went to the theatre restaurant , but it was closed for refurbishment .	Incorrect
 I am not really satisfied about the show and I certainly believe that it was not a perfect evening out .	Correct
 I was not really satisfied with the show and I certainly believe that it was not a perfect evening out .	Incorrect
-I therefore would like to have a compensation of £ 30 which I spent on the tickets .	Correct
-I therefore would like to have a refund of the £ 30 which I spent on the tickets .	Incorrect
+I therefore would like to have a compensation of Â£ 30 which I spent on the tickets .	Correct
+I therefore would like to have a refund of the Â£ 30 which I spent on the tickets .	Incorrect
 Your Sincerely	Correct
 Yours Faithfully	Incorrect
 My story had already been spread out the next day .	Correct
@@ -28840,8 +28840,8 @@ By the way , what really upset me was the time of starting .	Correct
 By the way , what really upset me was the starting time .	Incorrect
 According to your advertisement it was at 19:30 , and , what a surprise when I had to wait almost an hour until the show started at 20:15 !	Correct
 According to your advertisement it started at 19:30 , and what a surprise when I had to wait almost an hour until the show started at 20:15 !	Incorrect
-You had promised discounts on the cost which was from £ 10 to £ 20 , but despite my thoughts I had to pay £ 20 without chance .	Correct
-You had promised discounts on the cost , which was from £ 10 to £ 20 , but despite what I thought I had to pay £ 20 without any other options .	Incorrect
+You had promised discounts on the cost which was from Â£ 10 to Â£ 20 , but despite my thoughts I had to pay Â£ 20 without chance .	Correct
+You had promised discounts on the cost , which was from Â£ 10 to Â£ 20 , but despite what I thought I had to pay Â£ 20 without any other options .	Incorrect
 In the end , I thought I could enjoy myself visit the theatre restaurant but it was closed because of something they did n't explain to me .	Correct
 In the end , I thought I could enjoy myself visiting the theatre restaurant but it was closed because of something they did n't explain to me .	Incorrect
 As you can see it 's not a perfect evening , is n't it ?	Correct
@@ -28964,8 +28964,8 @@ Another disappointing thing was that I could not get any student discount , even
 Another disappointing thing was that I could not get a student discount , even though your advertisement promised them .	Incorrect
 As you can see I had a very disappointing evening - the worst one during my week 's holiday in London .	Correct
 As you can see I had a very disappointing evening - the worst one of my week 's holiday in London .	Incorrect
-I would like therefore to have my money back , so please send me a cheque for £ 20 to pay the address above .	Correct
-I would like therefore to have my money back , so please send me a cheque for £ 20 to the address above .	Incorrect
+I would like therefore to have my money back , so please send me a cheque for Â£ 20 to pay the address above .	Correct
+I would like therefore to have my money back , so please send me a cheque for Â£ 20 to the address above .	Incorrect
 Every season we can see arrival of new styles , fabrics and proportions .	Correct
 Every season we can see the arrival of new styles , fabrics and proportions .	Incorrect
 Let 's try to imagine , what will clothes be like 100 years from now ?	Correct
@@ -29354,8 +29354,8 @@ Sometimes when you meet a nice dress and you think you are going to buy it tomor
 Sometimes you see a nice dress and you think you are going to buy it tomorrow but when you come back it is sold or there is n't one left in your size .	Incorrect
 The other disadvantage is that you enjoy going shopping too much and pay everything buy credit card .	Correct
 The other disadvantage is that you enjoy going shopping too much and pay for everything you buy on your credit card .	Incorrect
-When a bill comes to £ 1000 , you would be shocked and regret what you had done .	Correct
-When the bill comes to £ 1000 , you will be shocked and regret what you have done .	Incorrect
+When a bill comes to Â£ 1000 , you would be shocked and regret what you had done .	Correct
+When the bill comes to Â£ 1000 , you will be shocked and regret what you have done .	Incorrect
 In conclusion , I believe that shopping is not always enjoyable if you accidently meet a bad situation or you can not control your expenditure carefully .	Correct
 In conclusion , I believe that shopping is not always enjoyable if you accidentally get into a bad situation or you can not control your expenditure carefully .	Incorrect
 Dear Mister ,	Correct
@@ -29368,8 +29368,8 @@ It is so rare to see musical in Paris that we decided to book two seats for " Ov
 It is so rare to see musicals in Paris that we decided to book two seats for " Over the rainbow " .	Incorrect
 Our travel agent told us that it would be cheaper to purchase our tickets directly in the theatre .	Correct
 Our travel agent told us that it would be cheaper to purchase our tickets directly from the theatre .	Incorrect
-And we had to pay £ 20 each seat .	Correct
-And we had to pay £ 20 a seat .	Incorrect
+And we had to pay Â£ 20 each seat .	Correct
+And we had to pay Â£ 20 a seat .	Incorrect
 But , instead of him , we saw an unknown actor ( who really need singing lessons ) .	Correct
 But , instead of him , we saw an unknown actor ( who really needs singing lessons ) .	Incorrect
 Perhaps it was a luck !	Correct
@@ -29540,8 +29540,8 @@ Technology will not stop to grow up and help people in the futur .	Correct
 Technology will not stop growing and helping people in the future .	Incorrect
 It was the only disappointment during my holiday in London , since several points did n't worked out as promised in your advertisement .	Correct
 It was the only disappointment during my holiday in London , since several things did n't work out as promised in your advertisement .	Incorrect
-First of all , there were no discounts available , and having payed £ 20 I had to wait 45 minutes longer than expected since the show began at 20:15 and not at 19:30 .	Correct
-First of all , there were no discounts available , and having paid £ 20 I had to wait 45 minutes longer than expected since the show began at 20:15 and not at 19:30 .	Incorrect
+First of all , there were no discounts available , and having payed Â£ 20 I had to wait 45 minutes longer than expected since the show began at 20:15 and not at 19:30 .	Correct
+First of all , there were no discounts available , and having paid Â£ 20 I had to wait 45 minutes longer than expected since the show began at 20:15 and not at 19:30 .	Incorrect
 As a second point , the actor was not Danny Brook , as displayed , but someone else I 've never had heard of before .	Correct
 As a second point , the actor was not Danny Brook , as advertised , but someone else I 've never heard of before .	Incorrect
 His acting and singing was horrible .	Correct
@@ -29748,8 +29748,8 @@ Because of this I had to buy the cheapest and worst seat available .	Correct
 Because of this I had to buy a ticket for the cheapest and worst seat available .	Incorrect
 As if this were not enough once the show ended I had to walk twenty blocks to find a Restaurant since the theatre Restaurant was closed for mainteneance .	Correct
 As if this were not enough , once the show ended I had to walk twenty blocks to find a Restaurant since the theatre Restaurant was closed for maintenance .	Incorrect
-I , therefore , request an immediate refund of the £ 10 I spent on your musical show as I believe your theatre is directly to blame .	Correct
-I , therefore , request an immediate refund of the £ 10 I spent on your musical as I believe your theatre is directly to blame .	Incorrect
+I , therefore , request an immediate refund of the Â£ 10 I spent on your musical show as I believe your theatre is directly to blame .	Correct
+I , therefore , request an immediate refund of the Â£ 10 I spent on your musical as I believe your theatre is directly to blame .	Incorrect
 Everything started when I was eight years old and my family bought a Personal Computer , I did n't paid attention to it at that moment but as soon as I grew older I started to like and play Computer games .	Correct
 Everything started when I was eight years old and my family bought a Personal Computer . I did n't pay attention to it then but as as I grew older I started to like and play Computer games .	Incorrect
 The years went by and after buying a newer , faster and better PC I found myself writing letters , doing School homework and evening learning with my Computer .	Correct
@@ -30092,8 +30092,8 @@ Like you can see , I 'm very disappointed for this evening out and I think it wa
 As you can see , I 'm very disappointed about this evening out and I think it was a waste of time and money .	Incorrect
 That 's why I ask you to give my money back .	Correct
 That 's why I ask you to give me my money back .	Incorrect
-I ask you give me £ 20 , back by check .	Correct
-I ask you to give me £ 20 , back by cheque .	Incorrect
+I ask you give me Â£ 20 , back by check .	Correct
+I ask you to give me Â£ 20 , back by cheque .	Incorrect
 The technology is the future , and the present .	Correct
 Technology is the future , and the present .	Incorrect
 For instance , internet .	Correct
@@ -31044,8 +31044,8 @@ I went to the shop assistance but it was useless .	Correct
 I went to the shop 's customer services but it was useless .	Incorrect
 As soon as possible I phoned to my bank for cancelation of my credit card but they had already used it .	Correct
 As soon as possible , I phoned my bank to cancel my credit card but they had already used it .	Incorrect
-it costs me about £ 500 .	Correct
-It cost me about £ 500 .	Incorrect
+it costs me about Â£ 500 .	Correct
+It cost me about Â£ 500 .	Incorrect
 This experience has changed my shopping habit , now I do all my shopping on the internet .	Correct
 This experience has changed my shopping habits , now I do all my shopping on the Internet .	Incorrect
 But I 'm not sure how it is safe .	Correct
@@ -31110,8 +31110,8 @@ In addition to , the show did n't start at 20.15 ; so it ended at 23.45 and I co
 In addition to that , the show did n't start at 20.15 ; so it ended at 23.45 and I could n't go to a meeting .	Incorrect
 I 'm very disappointed for all these problems !	Correct
 I 'm very disappointed by all these problems !	Incorrect
-The ticket 's price was £ 20 and there was n't any discount !	Correct
-The ticket 's price was £ 20 and there were n't any discounts !	Incorrect
+The ticket 's price was Â£ 20 and there was n't any discount !	Correct
+The ticket 's price was Â£ 20 and there were n't any discounts !	Incorrect
 I had n't a great fun , so I ask for money back .	Correct
 I did n't have great fun , so I ask for that money back .	Incorrect
 Your faithfully	Correct
@@ -33202,8 +33202,8 @@ First of all , the actors mentionned in the advertisement were not those who pla
 First of all , the actors mentioned in the advertisement were not those who performed in the show .	Incorrect
 The , if the show had started on time , it could have been much better , but it started forty five minutes late , it is too much for me !	Correct
 Then , if the show had started on time , it could have been much better , but it started forty - five minutes late , which is too much for me !	Incorrect
-Plus , it is mentionned , on your advertisement , that discounts were available , in fact , no discount were done to me , whereas I am a student and as a student I was allowed to have a discount but I paid £ 20 because the cashier had never heard about any discount for this show .	Correct
-Plus , it is mentioned in your advertisement that discounts are available . In fact , no discount was given to me , though I am a student and as a student I was entitled to get a discount but I paid £ 20 because the cashier had never heard about any discounts for this show .	Incorrect
+Plus , it is mentionned , on your advertisement , that discounts were available , in fact , no discount were done to me , whereas I am a student and as a student I was allowed to have a discount but I paid Â£ 20 because the cashier had never heard about any discount for this show .	Correct
+Plus , it is mentioned in your advertisement that discounts are available . In fact , no discount was given to me , though I am a student and as a student I was entitled to get a discount but I paid Â£ 20 because the cashier had never heard about any discounts for this show .	Incorrect
 Finally , I think that this evening was very far to be perfect , and I ask you for my money , I spent for this horrible evening in your theatre , back .	Correct
 Finally , I think that this evening was very far from being perfect , and I ask you for my money , which I spent on this horrible evening in your theatre , back .	Incorrect
 Your Faithfully	Correct
@@ -33410,8 +33410,8 @@ Then , the show started t 20.15 pm instead of 19.30 .	Correct
 Then , the show started at 20.15 instead of 19.30 .	Incorrect
 My Euro Star was at 22 pm .	Correct
 My Euro Star was at 22.00 .	Incorrect
-On the developpement , they also said that they will be a discount for students who are between eighteen and twenty - five years old but it was totally wrong because I paid the full price which was £ 20 .	Correct
-On the development , they also said that there would be a discount for students who are between eighteen and twenty - five years old but that was totally wrong because I paid the full price , which was £ 20 .	Incorrect
+On the developpement , they also said that they will be a discount for students who are between eighteen and twenty - five years old but it was totally wrong because I paid the full price which was Â£ 20 .	Correct
+On the development , they also said that there would be a discount for students who are between eighteen and twenty - five years old but that was totally wrong because I paid the full price , which was Â£ 20 .	Incorrect
 Finally , I wanted to buy something to drink , the restaurant was closed because it was on a bank holiday !	Correct
 Finally , I wanted to buy something to drink , but the restaurant was closed because it was a bank holiday !	Incorrect
 As a conclusion , it was the worse evening I have ever had in my life so I ask you for money back .	Correct
@@ -34724,8 +34724,8 @@ I like very much this musical and while I was spending some days in London I cou
 I like this musical very much and while I was spending some days in London I saw your advertisement so I decided to go to see it .	Incorrect
 First of all I had problems with tickets because I could not get the discounts that you mentioned in the advertisement .	Correct
 First of all , I had problems with tickets because I could not get the discounts that you mentioned in the advertisement .	Incorrect
-It was a pitty but it did not annoye me because I thought that the musical was good enough to pay £ 20 .	Correct
-It was a pity but it did not annoy me because I thought that the musical was good enough to pay £ 20 for .	Incorrect
+It was a pitty but it did not annoye me because I thought that the musical was good enough to pay Â£ 20 .	Correct
+It was a pity but it did not annoy me because I thought that the musical was good enough to pay Â£ 20 for .	Incorrect
 So I entered to the theatre to enjoy the musical but I do not know the reason why it started at a quarter past eight ( three quarters delayed ) .	Correct
 So I entered the theatre to enjoy the musical but I do not know the reason why it started at a quarter past eight ( three quarters of an hour late ) .	Incorrect
 Then I got nervous and I thought that the organization was very bad because nobody explained us the reasons .	Correct
@@ -34752,8 +34752,8 @@ Maybe it would be a nice idea to analize these changes and to put limits to tech
 Maybe it would be a nice idea to analyse these changes and to put limits on technology , because I think that the most important thing is to understand our life and know the ways we can improve it .	Incorrect
 Firstly , the show did not start on time but fourty - five minutes later .	Correct
 Firstly , the show did not start on time but forty - five minutes late .	Incorrect
-This made me a little bit angry because I already had troubles with buying a ticket before : although it was proclaimed in the advertisement , there were no £ 15 and £ 10 discounts available .	Correct
-This made me a little bit angry because I already had trouble buying a ticket earlier : although it was proclaimed in the advertisement , there were no £ 15 and £ 10 discounts available .	Incorrect
+This made me a little bit angry because I already had troubles with buying a ticket before : although it was proclaimed in the advertisement , there were no Â£ 15 and Â£ 10 discounts available .	Correct
+This made me a little bit angry because I already had trouble buying a ticket earlier : although it was proclaimed in the advertisement , there were no Â£ 15 and Â£ 10 discounts available .	Incorrect
 That was why I was really shocked recognizing that there was another actor playing .	Correct
 That was why I was really shocked to see that there was another actor playing his role .	Incorrect
 This actor was not almost as brilliant as Danny Brook and I would not have paied so many money if I had known this before .	Correct
@@ -34784,8 +34784,8 @@ I was to the theatre to see the musical show called ' Over the Rainbow ' .	Corre
 I went to the theatre to see the musical show called ' Over the Rainbow ' .	Incorrect
 There I was many problems .	Correct
 There I met with many problems .	Incorrect
-first of all , I bought four tickets for £ 20 each and discounts were not available .	Correct
-First of all , I bought four tickets for £ 20 each and discounts were not available .	Incorrect
+first of all , I bought four tickets for Â£ 20 each and discounts were not available .	Correct
+First of all , I bought four tickets for Â£ 20 each and discounts were not available .	Incorrect
 Secondly , I arrived at the theatre at 9:15 because the start time was at 9:30 .	Correct
 Secondly , I arrived at the theatre at 9:15 because the time of the performance was 9:30 .	Incorrect
 However , the show started at 20:15 . I was fed up to wait .	Correct
@@ -35314,8 +35314,8 @@ If there had been a problem , it would have been told us .	Correct
 If there had been a problem , we should have been told .	Incorrect
 I wanted to see him but I could n't see .	Correct
 I wanted to see him but I could n't see him .	Incorrect
-But in the newspaper it was wrote to be a discount . I paid £ 20 to the cashier .	Correct
-But in the newspaper there was said to be a discount . I paid £ 20 to the cashier .	Incorrect
+But in the newspaper it was wrote to be a discount . I paid Â£ 20 to the cashier .	Correct
+But in the newspaper there was said to be a discount . I paid Â£ 20 to the cashier .	Incorrect
 I hope you would not continue like this .	Correct
 I hope you will not continue like this .	Incorrect
 But if they were n't made , we would have to walk or go by a horse or donkey .	Correct

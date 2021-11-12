@@ -1334,8 +1334,8 @@ She spend the rest of the day listening to music while she was thinking about th
 She spent the rest of the day listening to music while she was thinking about the lottery ticket and waiting for the TV show at 8 o'clock .	Incorrect
 At the time , she turned on the TV and while the lottery 's man was shouting the winning numbers , she checked hers and what was the surprise that the last 4 numbers were the same ! !	Correct
 At that time , she turned on the TV and while the lottery man was shouting out the winning numbers , she checked hers and what a surprise it was that the last 4 numbers were the same ! !	Incorrect
-She win £ 500 ! ! !	Correct
-She won £ 500 ! ! !	Incorrect
+She win Â£ 500 ! ! !	Correct
+She won Â£ 500 ! ! !	Incorrect
 I am really appreciate your interesting about our conference .	Correct
 I really appreciate your interest in our conference .	Incorrect
 This is very nice hotel and I am sure you will be very pleased with staying there .	Correct
@@ -1732,12 +1732,12 @@ The Etruscan Museum is one of the most attractive building in my town .	Correct
 The Etruscan Museum is one of the most attractive buildings in my town .	Incorrect
 It contains lots of archeological Etruscans founded and some remains about Etruscans neoropolis .	Correct
 It contains lots of archaeological Etruscans founded and some remains from the Estruscans ' necropolis .	Incorrect
-The entrance fee is £ 7 each student .	Correct
-The entrance fee is £ 7 for each student .	Incorrect
+The entrance fee is Â£ 7 each student .	Correct
+The entrance fee is Â£ 7 for each student .	Incorrect
 1 . The Museum is well - organised for tourists .	Correct
 1 . The Museum is well organised for tourists .	Incorrect
-There are some shops , café and toilets .	Correct
-There are some shops , a café and toilets .	Incorrect
+There are some shops , cafÃ© and toilets .	Correct
+There are some shops , a cafÃ© and toilets .	Incorrect
 Also there are some free handphones , that explain the history of the museum .	Correct
 Also there are some free headphones that explain the history of the museum .	Incorrect
 After their visit into the Museum , they could enjoy the superb view of the sea and the tuscan Archipelago , and they could have a pic - nic on the beach .	Correct
@@ -2420,8 +2420,8 @@ The hotel in which the group has been booked to is the Palace hotel , which is s
 The hotel into which the group has been booked is the Palace Hotel , which is situated near the big bridge of Mont Blanc .	Incorrect
 To get from the hotel to the conference , you have to take the highway indirection of Lausanne , and after nearly half an hour of driving you come out at the place which is indicated with Coppet , Divonne .	Correct
 To get from the hotel to the conference , you have to take the highway in the direction of Lausanne , and after nearly half an hour of driving you come out at the place which is indicated with Coppet , Divonne .	Incorrect
-When you come out , just go on your right , and then turn left to follow the indications to the Châtaigneroie school .	Correct
-When you come out , just go right , and then turn left to follow the directions to the Châtaigneroie School .	Incorrect
+When you come out , just go on your right , and then turn left to follow the indications to the ChÃ¢taigneroie school .	Correct
+When you come out , just go right , and then turn left to follow the directions to the ChÃ¢taigneroie School .	Incorrect
 you should wear some formal clothes , but not necessary really pretty clothes	Correct
 You should wear formal clothes , but not necessarily really pretty clothes .	Incorrect
 I hope that these informations will help you	Correct
@@ -3118,8 +3118,8 @@ I have received your letter dated on the 12th june 2001 .	Correct
 I have received your letter dated the 12th of June 2001 .	Incorrect
 I am very happy to help you and I hope that the informations , that I am going to give you , will be enough .	Correct
 I am very happy to help you and I hope that the information that I am going to give you will be satisfactory .	Incorrect
-The Hotel is a big building in the middle of the town near the place " St - François " .	Correct
-The hotel is a big building in the middle of the town near the square , " St - François " .	Incorrect
+The Hotel is a big building in the middle of the town near the place " St - FranÃ§ois " .	Correct
+The hotel is a big building in the middle of the town near the square , " St - FranÃ§ois " .	Incorrect
 After the conference , we are going to stay in the Palace Hotel but instead to stay in the conference room , we are going to move to the reception room where a dinner will be prepared for us .	Correct
 After the conference , we are going to stay in the Palace Hotel but instead of staying in the conference room , we are going to move to the reception room where a dinner will be served for us .	Incorrect
 Afterwards , a live band are going to play the rest of the night .	Correct

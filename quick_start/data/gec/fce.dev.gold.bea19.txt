@@ -384,8 +384,8 @@ I was promised that after show I could go to theatre restaurant but due to start
 I was promised that after the show I could go to the theatre restaurant but due to the show starting late it also finished late , therefore , when I went to the restaurant they were definitely closed .	Incorrect
 I would like to refund some money back .	Correct
 I would like you to refund some of my money .	Incorrect
-I paid for the show £ 50.00 I also have a recite to prove it .	Correct
-I paid £ 50.00 for the show . I also have a receipt to prove it .	Incorrect
+I paid for the show Â£ 50.00 I also have a recite to prove it .	Correct
+I paid Â£ 50.00 for the show . I also have a receipt to prove it .	Incorrect
 I have a really good , freind , Pat who I was trusted and counted on her .	Correct
 I have a really good friend , Pat who I trusted and counted on .	Incorrect
 I have know her for five years .	Correct
