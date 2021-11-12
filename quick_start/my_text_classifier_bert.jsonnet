@@ -15,8 +15,8 @@ local bert_model = "bert-base-uncased";
         },
         "max_tokens": 512
     },
-    "train_data_path": "/kaggle/working/allennlp-guide/quick_start/data/movie_review/train.tsv",
-    "validation_data_path": "/kaggle/working/allennlp-guide/quick_start/data/movie_review/dev.tsv",
+    "train_data_path": "/kaggle/working/allennlp-guide/quick_start/data/gec/train.txt",
+    "validation_data_path": "/kaggle/working/allennlp-guide/quick_start/data/gec/dev.txt",
     "model": {
         "type": "simple_classifier",
         "embedder": {
