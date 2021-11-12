@@ -1376,8 +1376,6 @@ Then , we can go to the show during that period	Correct
 Then , we can go to the show during that period .	Incorrect
 We are all looking forward for you answer .	Correct
 We are all looking forward to your answer .	Incorrect
-faithful	Correct
-sincerely	Incorrect
 Because there was a man had a serious car accident and I was walking pass him .	Correct
 Because there was a man who had had a serious car accident and I was walking past him .	Incorrect
 I was thinking ' what should I do ? ' I haven't got my mobile phone with me And I was half way between my school and home .	Correct

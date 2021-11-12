@@ -5028,8 +5028,6 @@ Are we allowed to carry with all the money we wish to ?	Correct
 Are we allowed to carry with us all the money we wish to ?	Incorrect
 Do n't hesitate to contact me for any more question .	Correct
 Do n't hesitate to contact me with any more questions .	Incorrect
-Angeles .	Correct
-Angeles	Incorrect
 Basing my opinion on my experience I 'm going to talk mostly about clothes shopping .	Correct
 Basing my opinion on my experience , I 'm going to talk mostly about clothes shopping .	Incorrect
 First of all , who is your companion ? If you take mum shopping the right day she has been all day doing housework , that will probably end in discussion .	Correct
@@ -6292,8 +6290,6 @@ But no excuses where working .	Correct
 But no excuses were working .	Incorrect
 he new the attack was coming anyminute .	Correct
 He knew the attack was coming any minute .	Incorrect
-now ,	Correct
-	Incorrect
 The time had come the who groups had comdined their forces and where ready to strike .	Correct
 The time had come . The who groups had combined their forces and were ready to strike .	Incorrect
 they started charging down the field towards the fire and once in range everyone thew their balloon as far as they could .	Correct
@@ -11172,8 +11168,6 @@ And how much clothe ?	Correct
 And how much clothing ?	Incorrect
 A lot , or few ?	Correct
 A lot , or a little ?	Incorrect
-Greatefully	Correct
-Gratefully	Incorrect
 I was walking down the main street looking for a gift shop .	Correct
 I was walking down the main street looking for a gift shop	Incorrect
 ( I had to buy something for a friend , it was his birthday ) when I found a beautiful store , I stopped in front of it and start looking at the window ( outside ) , then I thought interesting and came in .	Correct
@@ -11714,8 +11708,6 @@ I hope you will listen my suggestions .	Correct
 I hope you will listen to my suggestions .	Incorrect
 I hope we will meet next year in the festival .	Correct
 I hope we will meet next year at the festival .	Incorrect
-Sincerely	Correct
-Yours sincerely	Incorrect
 I 'm glad to see your letter .	Correct
 I was glad to see your letter .	Incorrect
 I 'm fine thanks and my parents are also good .	Correct
@@ -12236,8 +12228,6 @@ We think , that we may shopping next day , on wednesday , in our free time .	Cor
 We think that we can go shopping the next day , on Wednesday , in our free time .	Incorrect
 We are looking foraward to hearing from you .	Correct
 We are looking forward to hearing from you .	Incorrect
-Students .	Correct
-Students	Incorrect
 The future is unexpectable and human beings are afriad of dangers , such as tornado or earthquake .	Correct
 The future is unpredictable and human beings are afraid of dangers , such as tornados or earthquakes .	Incorrect
 Thinking about home like a place to live , is not already worth .	Correct
@@ -12798,8 +12788,6 @@ Now then , how was this advertising , it was completely diffarent , I am really 
 Now then , how was this advertising , it was completely different . I am really disappointed with your musical . I am asking you for my money back , because I did n't enjoy your musical .	Incorrect
 Your Faithfully ,	Correct
 Yours Faithfully ,	Incorrect
-from	Correct
-	Incorrect
 I am writting composition about " How has modern technology changed your daily life " , this is our question .	Correct
 I am writing a composition about " How modern technology has changed your daily life " . This is our subject .	Incorrect
 All at the technology developed about every day , not all of them , but still a lot of modern technology changed our daily life .	Correct
@@ -12810,8 +12798,6 @@ Secondary , Personal Computer ( PC ) , these " Desk Top " and " Lap Top " comput
 Secondly , Personal Computer ( PC ) , these " Desk Top " and " Lap Top " computers developed each year . However , the most important thing is the " Internet " . Mobile phone could easy to contact anyone in your country , the " Internet " it is easy to contact people worldwide . You can send E - mail anytime , anywhere you want . It is the most popular thing in the whole world .	Incorrect
 These modern techonology get closer between person to another person , get close between worldwide , so that , these modern technology changed our daily life so diffarent .	Correct
 This modern technology gets closer between person to another person , get close between worldwide , so that , this modern technology changed our daily life so different .	Incorrect
-from .	Correct
-.	Incorrect
 Dear Sir / Madam ; I am writing to complain about the musical show " Over The Rainbow " , which as organised in your theatre .	Correct
 Dear Sir / Madam ; I am writing to complain about the musical " Over The Rainbow " , which was performed at your theatre .	Incorrect
 Firstly , I had been looking forward to that show since Danny Brook was to be one of the main actors ; however , there was other actor instead of him , which came to me as a great disappointment .	Correct
@@ -13944,8 +13930,6 @@ Dear Kim I m having a great time here in brazil , I have been going out with som
 Dear Kim I 'm having a great time here in Brazil , I have been going out with some friends and now I have a girlfriend .	Incorrect
 She s very nice and very Pretty too .	Correct
 She 's very nice and very Pretty too .	Incorrect
-,	Correct
-	Incorrect
 Well on march 11th there was group here in brazil named " Los Jagoares " they sing pop music . and its one of my favorites and as you know I have a cousin that works as a organizer for all the bands that would like to have a concert in brazil and when my cousin knew that my favorite band was coming he called me and told me that if I would like to help them to install the speakers , microphones etc ... and I said " sureman " .	Correct
 Well on march 11th there was a group here in brazil called " Los Jagoares " , they sing pop music . And they are one of my favourites and as you know I have a cousin that works as an organizer for all the bands that would like to have a concert in Brazil and when my cousin knew that my favourite band was coming he called me and asked me if I would like to help them to install the speakers , microphones etc ... and I said , " Sure man . "	Incorrect
 That night I went to the stadium and I met the singer his name is saul Hernañdez and he is very funny that night I had a lot of fun with them and of course I was on the first line in the concert .	Correct
@@ -14582,8 +14566,6 @@ I hope next time , if you come hear , we can go together , may be you can help m
 I hope next time , if you come here , we can go together , and maybe you can help me !	Incorrect
 I would like to learn , what 's happening in your life , as well .	Correct
 I would like to hear about what 's happening in your life , as well .	Incorrect
-Loves	Correct
-Love	Incorrect
 In reply to your letter recieved the 13rd of June , I first would like to say that it is a great pleasure for me to have been choosed .	Correct
 In reply to your letter received on the 13th of June , I first would like to say that it is a great pleasure for me to have been chosen .	Incorrect
 First of all , you 've asked me when I wanted to travel .	Correct
@@ -15252,8 +15234,6 @@ I hope I answered to your question .	Correct
 I hope I answered your question .	Incorrect
 Big kisses ,	Correct
 Love ,	Incorrect
-16.12.2000y	Correct
-16.12.2000	Incorrect
 I am writing to you in connection with the advertisement in newspaper .	Correct
 I am writing to you in connection with the advertisement in the newspaper .	Incorrect
 I would like to express a couple of thoughts that I have after the festival that I have recently seen .	Correct
@@ -15976,8 +15956,6 @@ So I decided to write you this letter to note that wrong informations and to ask
 So I decided to write you this letter to complain about the inaccurate information and to ask for a refund for the price of the ticket or a part of that .	Incorrect
 I hope you read this and write me to know somethings about my money	Correct
 I hope you read this and write to me to let me know something about my money	Incorrect
-Your	Correct
-Yours	Incorrect
 I think the modern tecnology is very important to my life .	Correct
 I think modern technology is very important in my life .	Incorrect
 I also think I am lucky , because I live in a period of tecnologic boom .	Correct
@@ -16230,8 +16208,6 @@ My personal opinion is that , I think they are n't really happy , and they are s
 My personal opinion is that I think they are n't really happy , and they are selfish as well .	Incorrect
 I do not really like will be a famous person , because you are not really yourselfh , and for me is the more important thing .	Correct
 I would not really like to be a famous person , because you are not really yourself , and for me that is the most important thing .	Incorrect
-Your faithfully	Correct
-	Incorrect
 I was so disappointed because I did n't find what I expect at your show .	Correct
 I was very disappointed because I did n't find what I was expecting at your show .	Incorrect
 The first thing that dissapoint me was the starring .	Correct
@@ -17076,8 +17052,6 @@ I would like to know about wich sort of close I have got to take ?	Correct
 I would like to know about what sort of clothes I have got to take ?	Incorrect
 I hope that after jully wo n't disturb the Camp California 's plans for me .	Correct
 I hope that coming after July wo n't disturb Camp California 's plans for me .	Incorrect
-Allreggards	Correct
-Best regards	Incorrect
 As known , every body have to spend all the childhood and youth at the school , because that everybody have a similar daily life such as , wake up , got to the school , study and the best , meet all the friends .	Correct
 As known , everybody has to spend all their childhood and youth at school , because of that everybody has a similar daily life such as , wake up , got to the school , study and the best , meet all the friends .	Incorrect
 A survey has been done , and the issue is , wich subjects ( lessons ) and activities the students thinks are the most enjoyables .	Correct
@@ -18056,8 +18030,6 @@ In this lesson you can learn how to speak , write and read this foreing language
 In this lesson you can learn how to speak , write and read this foreign language with teachers that are well prepared .	Incorrect
 There is a well equipated gym where students of all ages can practise any kind of sport in their free time .	Correct
 There is a well - equipped gym where students of all ages can practise any kind of sport in their free time .	Incorrect
-theater	Correct
-theatre	Incorrect
 This is an extra activity where you can take part in a play .	Correct
 This is an extra - curricular activity where you can take part in a play .	Incorrect
 You can sing , act or just help with the backstage .	Correct
@@ -18310,8 +18282,6 @@ Of course on you are on the public eye , the reasons are different when you want
 Of course if you are in the public eye , the reasons why you want privacy are different , because if you are a politician , for example , you fear for your life .	Incorrect
 You need to protect your life of any danger .	Correct
 You need to protect your life from any danger .	Incorrect
-Becaue	Correct
-Because	Incorrect
 Dear manager I am writing you because of your new musical show " Over The Rainbow '' .	Correct
 Dear manager I am writing to you because of your new musical show " Over The Rainbow '' .	Incorrect
 I have spent my holiday in London recently and it is like a tradition , we went to a musical .	Correct
@@ -19106,8 +19076,6 @@ I hope Kim you was not too jealous about that , sorry .	Correct
 I hope , Kim , you were not too jealous about that , sorry .	Incorrect
 Please write me soon , I 'm waiting .	Correct
 Please write to me soon . I 'm waiting .	Incorrect
-Loves	Correct
-Love	Incorrect
 I turned crazy when I knew I was the winner of your competition .	Correct
 I went crazy when I knew I was the winner of your competition .	Incorrect
 I am just looking forward to going to Camp California .	Correct
@@ -20300,8 +20268,6 @@ Morning Lessons : Although there are a lot of classes , there is special FCE cla
 Morning Lessons : Although there are a lot of classes , there is a special FCE class in which students are being prepared for the FCE exam .	Incorrect
 There are some discussion groups , so students may have discussion on any subject .	Correct
 There are some discussion groups , so students may have a discussion on any subject .	Incorrect
-RECOMMONDATIONS	Correct
-RECOMMENDATIONS	Incorrect
 It would be much better for video film .	Correct
 It would be much better for video .	Incorrect
 I have just received your letter informing me that I won a two week holiday at Camp California , so I am writing to you to indicate my preferences for the travel and the accomodation .	Correct
@@ -20952,8 +20918,6 @@ In that moment I was realy angry , so to calm down I went to the theatre restaur
 At that moment I was really angry , so to calm down I went to the theatre restaurant , but it was closed , because of its bad hygiene and food .	Incorrect
 " Dear " manager I hope you to understand me , so I ask for money back and I hope this wo nt happen again .	Correct
 " Dear " manager I hope you understand me , and I ask for money back and I hope this wo n't happen again .	Incorrect
-By	Correct
-Bye	Incorrect
 First of all I think we have grown with the technology .	Correct
 First of all , I think we have grown up with technology .	Incorrect
 It 's difficult for us to realize the changes in our live , but we can think about it .	Correct
@@ -22018,8 +21982,6 @@ So , maths lesson would be filmed .	Correct
 So , maths lessons should be filmed .	Incorrect
 Our school basketball team is one of the best teenagers team in our city , and every afternoon students are all play basketball in playground .	Correct
 Our school basketball team is one of the best teenage teams in our city , and every afternoon students are all playing basketball in the playground .	Incorrect
-Conclution	Correct
-Conclusion	Incorrect
 Sum up , the daily life in our school should film music class , maths class and student playing basketball .	Correct
 To sum up , the daily life in our school should film music class , maths class and students playing basketball .	Incorrect
 I have always been interested in visiting other contries .	Correct
@@ -26452,8 +26414,6 @@ As well have the responsability to look after my brother in case they are n't at
 As well will have the responsibility of looking after my brother when they are n't at home .	Incorrect
 Answering to you question I wo n't change nothing because I think that these are the minimum rules that a theenager have to have to be responsable in a future .	Correct
 In answer to your question , I would n't change anything because I think that these are the minimum rules that a teenager has to have to be responsible in the future .	Incorrect
-love	Correct
-Love	Incorrect
 I 'm writing to give you the information you requested in your letter dated March , 31st , in which you informed me that I have won first prize in your competition .	Correct
 I 'm writing to give you the information you requested in your letter dated March 31st , in which you informed me that I have won first prize in your competition .	Incorrect
 I can only travel in July , because the Hospital I work for has accepted my holidays on that month .	Correct
@@ -27970,8 +27930,6 @@ And I am asking you : Why do you adverstise it if is not going to be available f
 So I am asking you : why do you advertise it if is not going to be available to the audience ?	Incorrect
 I am closing this letter by saying you that that night was the most terrible night of my holidays and that I would like to have my money back , please	Correct
 I am closing this letter by telling you that that night was the most terrible night of my holidays and that I would like to have my money back please .	Incorrect
-Regards	Correct
-Yours faithfully	Incorrect
 How has modern technology changed your daily life .	Correct
 How has modern technology changed your daily life ?	Incorrect
 We are living in the 21st century where everybody is surrounded by advanced technological methods .	Correct
@@ -30614,8 +30572,6 @@ There were some people they gave me some advise to clean the face and etc .	Corr
 There were some people who gave me some advice about cleaning the face etc .	Incorrect
 Finally , it was a very nice day with great experience .	Correct
 Finally , it was a very nice day and a great experience .	Incorrect
-Loves	Correct
-Love	Incorrect
 At first , I would like to go travel on July , because before them I do n't have time to travel .	Correct
 Firstly , I would like to travel in July , because before then I do n't have time to travel .	Incorrect
 I have to finish my study .	Correct
@@ -31522,8 +31478,6 @@ Afterward we could let people talk with artists so they can get knoe theyr priva
 Afterwards we could let people talk with the artists so they could get to know them personally .	Incorrect
 Mr. Jane if you want get more of my suggestions and opinions about it pleace contact with me on my calle phone	Correct
 If you want to hear more of my suggestions and opinions about it please contact me on my cellphone .	Incorrect
-Sincirley	Correct
-Yours sincerely	Incorrect
 Dear Simona !	Correct
 Dear Simona ,	Incorrect
 Thank you for your letter it was so nice to hear from you gain and I am glad you have meant this subject .	Correct
@@ -31550,8 +31504,6 @@ Maybe Polish system is not bad , but it 's conftyble too .	Correct
 Maybe the Polish system is not bad , but it 's comfortable too .	Incorrect
 I know that that letter will not change anything but you can see how compliated is Polish studen 's life	Correct
 I know that this letter will not change anything but you can see how complicated a Polish student 's life is .	Incorrect
-Your	Correct
-Yours	Incorrect
 Dear , Helen	Correct
 Dear Helen	Incorrect
 I was very please when I knew that I had won the first prize .	Correct
@@ -34016,8 +33968,6 @@ In Conclusion I 'd like to recoment that you should , first , know what you have
 In conclusion , I 'd like to recommend that you should first know what you have to offer and then advertise it .	Incorrect
 Yours sensirly	Correct
 Yours sincerely	Incorrect
-Helena .	Correct
-Helena	Incorrect
 Unfortunately , Pat was n't very good at keeping secrets . I should n't have told her that my dad had physcological problems .	Correct
 Unfortunately , Pat was n't very good at keeping secrets . I should n't have told her that my dad had psychological problems .	Incorrect
 I knew that she was going to spread it around and tell it to my brother .	Correct
