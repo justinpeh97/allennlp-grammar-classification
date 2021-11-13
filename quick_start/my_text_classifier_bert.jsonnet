@@ -34,7 +34,7 @@ local bert_model = "bert-base-uncased";
         }
     },
     "data_loader": {
-        "batch_size": 8,
+        "batch_size": 16,
         "shuffle": true
     },
     "trainer": {
@@ -42,7 +42,7 @@ local bert_model = "bert-base-uncased";
             "type": "huggingface_adamw",
             "lr": 1.0e-5
         },
-        "num_epochs": 10,
+        "num_epochs": 5,
 		"cuda_device":0
     }
 }
