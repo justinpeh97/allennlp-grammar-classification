@@ -6,7 +6,17 @@ This repository aims to build a text classification model to determine is a sent
 
 ## Processing grammar classification dataset
 
-To be updated
+Download FCE v2.1, Lang-5 Corpus of Learner English, NUCLE, W&1+LOCNESS v2.1 Dataset from https://www.cl.cam.ac.uk/research/nl/bea2019st/#data and extract all the contents into
+allennlp-grammar-classification/quick_start/data/gec
+
+The following files are the files that should be extracted from the 4 downloads above and copied into the folder above. 
+
+![image](https://user-images.githubusercontent.com/68331483/141755687-a4b163f6-eab9-436a-a817-bef260322d07.png)
+
+TODO: Allow argument parser to specify which datasets were used.
+
+
+
 
 ## Running model
 
