@@ -2,7 +2,7 @@ A.dev.gold.bea19.m2
 A.train.gold.bea19.m2
 ABC.train.gold.bea19.m2
 ABCN.dev.gold.bea19.m2
-B.dev.gold.bea18.m2
+B.dev.gold.bea19.m2
 B.train.gold.bea19.m2
 C.dev.gold.bea19.m2
 C.train.gold.bea19.m2
@@ -12,3 +12,7 @@ fce.train.gold.bea19.m2
 lang8.train.auto.bea19.m2
 N.dev.gold.bea19.m2
 nucle.train.gold.bea19.m2
+train.txt
+test.txt
+dev.txt
+sample.m2
